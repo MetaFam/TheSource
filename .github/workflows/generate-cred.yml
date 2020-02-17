@@ -16,11 +16,11 @@ jobs:
       - name: SourceCred Cache
         uses: actions/cache@v1
         with:
-          # cred-action uses *workspace*/data as it's SOURCECRED_DIRECTORY.
-          # Only store the cache from that.
-          path: data/sourcecred_data
-          key: SC_CACHE-${{ hashFiles('**/project.json') }}
+          # cred-action uses *workspace*/sourcecred_data as it's SOURCECRED_DIRECTORY. Only store the cache from that.
+          path: sourcecred_data/cache
+          key: SC_CACHE-${{ hashFiles('**/project.json') }}-$GITHUB_RUN_ID
           restore-keys: |
+            SC_CACHE-${{ hashFiles('**/project.json') }}-
             SC_CACHE-
       - name: Run SourceCred
         uses: vsoch/cred-action@wip-discord-cache
