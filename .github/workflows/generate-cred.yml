@@ -13,14 +13,23 @@ jobs:
     steps:
       - name: Checkout Repository
         uses: actions/checkout@v1
+      - name: SourceCred Cache
+        uses: actions/cache@v1
+        with:
+          # cred-action uses *workspace*/data as it's SOURCECRED_DIRECTORY.
+          # Only store the cache from that.
+          path: data/sourcecred_data
+          key: SC_CACHE-${{ hashFiles('**/project.json') }}
+          restore-keys: |
+            SC_CACHE-
       - name: Run SourceCred
-        uses: vsoch/cred-action@wip-discord
+        uses: vsoch/cred-action@wip-discord-cache
         env:
           token: ${{ secrets.GITHUB_TOKEN }}
           SOURCECRED_DISCORD_TOKEN: ${{ secrets.SOURCECRED_DISCORD_TOKEN }}
         with:
           weights: weights.json
-          project: '@metagame'
+          project: "@metagame"
           project-file: project.json
           branch-against: master
-          automated: true
+          # automated: true
