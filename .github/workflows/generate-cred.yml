@@ -16,9 +16,9 @@ jobs:
       - name: SourceCred Cache
         uses: actions/cache@v1
         with:
-          # cred-action uses *workspace*/data as it's SOURCECRED_DIRECTORY.
+          # cred-action uses *workspace*/sourcecred_data as it's SOURCECRED_DIRECTORY.
           # Only store the cache from that.
-          path: data/sourcecred_data
+          path: sourcecred_data/cache
           key: SC_CACHE-${{ hashFiles('**/project.json') }}
           restore-keys: |
             SC_CACHE-
