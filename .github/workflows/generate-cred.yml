@@ -1,0 +1,24 @@
+name: generate-cred
+
+on:
+  pull_request: []
+  schedule:
+    # Nightly at 2:30am
+    - cron: 30 2 * * *
+
+jobs:
+  GenerateCred:
+    name: Generate Cred
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v1
+      - name: Run SourceCred
+        uses: vsoch/cred-action@wip-discord
+        env:
+          token: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          weights: weights.json
+          project: '@metagame'
+          project-file: project.json
+          branch-against: master
