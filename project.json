@@ -1,0 +1,53 @@
+[
+  {
+    "type": "sourcecred/project",
+    "version": "0.4.0"
+  },
+  {
+    "id": "@metagame",
+    "discord": {
+      "guildId": "629411177947987986",
+      "reactionWeights": {
+        "👍": 1,
+        "🔥": 1,
+        "❤️": 1,
+        "💯": 1,
+        "🌱": 1,
+        "🐙": 1
+      }
+    },
+    "discourseServer": {
+      "serverUrl": "https://metagame.trydiscourse.com"
+    },
+    "identities": [
+      {"username": "Beanow", "aliases": ["github/Beanow", "discord/143776454050709505"]},
+      {"username": "geleeroyale", "aliases": ["github/geleeroyale", "discord/426314998822731787"]},
+      {"username": "hammadj", "aliases": ["github/hammadj", "discord/118260545211072517"]},
+      {"username": "YalorMewn", "aliases": ["github/YalorMewn", "discord/360481131029856256", "discourse/Yalortackson"]},
+      {"username": "burrrata", "aliases": ["github/burrrata", "discord/657069807505637397"]},
+      {"username": "sepu85", "aliases": ["github/sepu85", "discord/390217328123707394"]},
+      {"username": "nicolas-law", "aliases": ["github/nicolas-law", "discord/250008348571729932"]},
+      {"username": "peth-yursick", "aliases": ["github/peth-yursick", "discord/370936911268806667"]},
+      {"username": "sbutler-gh", "aliases": ["github/sbutler-gh"]},
+      {"username": "moarshy", "aliases": ["github/moarshy"]}
+    ],
+    "repoIds": [
+      {
+        "name": "metagame-web",
+        "owner": "MetaFam"
+      },
+      {
+        "name": "interspace.chat",
+        "owner": "MetaFam"
+      },
+      {
+        "name": "MetaGame",
+        "owner": "MetaFam"
+      },
+      {
+        "name": "Manifesto",
+        "owner": "MetaFam"
+      }
+    ]
+  }
+]
