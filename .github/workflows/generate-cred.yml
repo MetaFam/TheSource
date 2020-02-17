@@ -1,6 +1,7 @@
 name: generate-cred
 
 on:
+  pull_request: []
   schedule:
     # Every 6 hours
     - cron: 0 */6 * * *
