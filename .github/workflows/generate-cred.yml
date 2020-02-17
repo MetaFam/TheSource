@@ -3,8 +3,8 @@ name: generate-cred
 on:
   pull_request: []
   schedule:
-    # Nightly at 2:30am
-    - cron: 30 2 * * *
+    # Every 6 hours
+    - cron: 0 */6 * * *
 
 jobs:
   GenerateCred:
@@ -23,3 +23,4 @@ jobs:
           project: '@metagame'
           project-file: project.json
           branch-against: master
+          automated: true
