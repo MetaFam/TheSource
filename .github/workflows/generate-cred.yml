@@ -1,7 +1,6 @@
 name: generate-cred
 
 on:
-  pull_request: []
   schedule:
     # Every 6 hours
     - cron: 0 */6 * * *
@@ -32,4 +31,4 @@ jobs:
           project: "@metagame"
           project-file: project.json
           branch-against: master
-          # automated: true
+          automated: true
