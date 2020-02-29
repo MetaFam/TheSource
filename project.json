@@ -17,7 +17,7 @@
       }
     },
     "discourseServer": {
-      "serverUrl": "https://metagame.trydiscourse.com"
+      "serverUrl": "https://forum.metagame.wtf"
     },
     "identities": [
       {"username": "Beanow", "aliases": ["github/Beanow", "discord/143776454050709505"]},
