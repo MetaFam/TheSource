@@ -1,9 +1,12 @@
 name: generate-cred
 
 on:
-  pull_request: []
+  # Trigger on merging to master.
+  push: 
+    branches: 
+      - master
+  # As well as every 6 hours.
   schedule:
-    # Every 6 hours
     - cron: 0 */6 * * *
 
 jobs:
