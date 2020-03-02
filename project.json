@@ -30,8 +30,9 @@
       {"username": "peth-yursick", "aliases": ["github/peth-yursick", "discord/370936911268806667"]},
       {"username": "sbutler-gh", "aliases": ["github/sbutler-gh"]},
       {"username": "moarshy", "aliases": ["github/moarshy"]},
-      {"username": "AlexMasmej", "aliases": ["github/AlexMasmej", "discord/386587341117980673", "discourse/alexmasmej"]}
-    ],
+      {"username": "AlexMasmej", "aliases": ["github/AlexMasmej", "discord/386587341117980673", "discourse/alexmasmej"]},
+      {"username": "mZ", "aliases": ["github/mzargham", "discord/250086586450968576", "discourse/mzargham"]},
+      ],
     "repoIds": [
       {
         "name": "metagame-web",
