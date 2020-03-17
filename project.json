@@ -4,10 +4,12 @@
     "version": "0.4.0"
   },
   {
-    "id": "@metagame",
+    "id": "@raidguild",
     "discord": {
-      "guildId": "629411177947987986",
+      "guildId": "684227450204323876",
       "reactionWeights": {
+        "687947381416787981:": 2,
+        "685305623130538029:": 2,
         "👍": 1,
         "🔥": 1,
         "❤️": 1,
@@ -17,40 +19,36 @@
         "🙏": 1
       }
     },
-    "discourseServer": {
-      "serverUrl": "https://forum.metagame.wtf"
-    },
     "identities": [
-      {"username": "Beanow", "aliases": ["github/Beanow", "discord/143776454050709505"]},
-      {"username": "geleeroyale", "aliases": ["github/geleeroyale", "discord/426314998822731787"]},
-      {"username": "hammadj", "aliases": ["github/hammadj", "discord/118260545211072517", "discourse/METADREAMER"]},
-      {"username": "YalorMewn", "aliases": ["github/YalorMewn", "discord/360481131029856256", "discourse/Yalortackson"]},
-      {"username": "burrrata", "aliases": ["github/burrrata", "discord/657069807505637397", "discourse/burrrata"]},
-      {"username": "sepu85", "aliases": ["github/sepu85", "discord/390217328123707394"]},
-      {"username": "nicolas-law", "aliases": ["github/nicolas-law", "discord/250008348571729932"]},
-      {"username": "peth-yursick", "aliases": ["github/peth-yursick", "discord/370936911268806667"]},
-      {"username": "sbutler-gh", "aliases": ["github/sbutler-gh"]},
-      {"username": "moarshy", "aliases": ["github/moarshy"]},
-      {"username": "AlexMasmej", "aliases": ["github/AlexMasmej", "discord/386587341117980673", "discourse/alexmasmej"]},
-      {"username": "mZ", "aliases": ["github/mzargham", "discord/250086586450968576", "discourse/mzargham"]},
-      {"username": "penguin", "aliases": ["github/c0mput3rxz", "discord/208321561982271489", "discourse/c0mput3rxz"]}
+      {
+        "username": "Hammad",
+        "aliases": ["github/hammadj", "discord/118260545211072517"]
+      },
+      {
+        "username": "Ven",
+        "aliases": ["github/oovg", "discord/538087853628981259"]
+      },
+      {
+        "username": "YalorMewn",
+        "aliases": ["github/YalorMewn", "discord/360481131029856256"]
+      }
     ],
     "repoIds": [
       {
-        "name": "metagame-web",
-        "owner": "MetaFam"
+        "name": "HQ",
+        "owner": "raid-guild"
       },
       {
-        "name": "interspace.chat",
-        "owner": "MetaFam"
+        "name": "dot-org",
+        "owner": "raid-guild"
       },
       {
-        "name": "MetaGame",
-        "owner": "MetaFam"
+        "name": "caletaXP-web",
+        "owner": "raid-guild"
       },
       {
-        "name": "Manifesto",
-        "owner": "MetaFam"
+        "name": "RIPs",
+        "owner": "raid-guild"
       }
     ]
   }
