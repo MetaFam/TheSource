@@ -8,19 +8,17 @@
     "discord": {
       "guildId": "684227450204323876",
       "reactionWeights": {
-        ":raid:685305623130538029:": 2,
+        ":raid:685305623130538029": 2,
         "👍": 1,
         "🔥": 1,
         "❤️": 1,
         "💯": 1,
-        "🌱": 1,
-        "🐙": 1,
         "🙏": 1
       }
     },
     "identities": [
       {
-        "username": "Hammad",
+        "username": "hammadj",
         "aliases": ["github/hammadj", "discord/118260545211072517"]
       },
       {
@@ -28,8 +26,24 @@
         "aliases": ["github/oovg", "discord/538087853628981259"]
       },
       {
+        "username": "skuhlmann",
+        "aliases": ["github/skuhlmann", "discord/547240329166848020"]
+      },
+      {
+        "username": "dekanbro",
+        "aliases": ["github/dekanbro", "discord/689620395438899200"]
+      },
+      {
         "username": "YalorMewn",
         "aliases": ["github/YalorMewn", "discord/360481131029856256"]
+      },
+      {
+        "username": "proofoftom",
+        "aliases": ["github/proofoftom", "discord/689572303243313162"]
+      },
+      {
+        "username": "DarrenRM",
+        "aliases": ["github/DarrenRM", "discord/689578557399367685"]
       }
     ],
     "repoIds": [

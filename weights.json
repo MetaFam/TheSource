@@ -9,7 +9,7 @@
       "N\u0000sourcecred\u0000github\u0000COMMENT\u0000": 0.5,
       "N\u0000sourcecred\u0000github\u0000COMMIT\u0000": 1,
       "N\u0000sourcecred\u0000github\u0000ISSUE\u0000": 1,
-      "N\u0000sourcecred\u0000github\u0000PULL\u0000": 16,
+      "N\u0000sourcecred\u0000github\u0000PULL\u0000": 8,
       "N\u0000sourcecred\u0000github\u0000REPO\u0000": 4,
       "N\u0000sourcecred\u0000github\u0000REVIEW\u0000": 4,
 
@@ -18,7 +18,7 @@
       "N\u0000sourcecred\u0000discord\u0000REACTION\u0000685303064390926339\u0000": 3,
       "N\u0000sourcecred\u0000discord\u0000REACTION\u0000685276163538813040\u0000": 2,
 
-      "N\u0000sourcecred\u0000github": 2
+      "N\u0000sourcecred\u0000github": 1
     }
   }
 ]
