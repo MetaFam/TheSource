@@ -31,7 +31,7 @@
       },
       {
         "username": "dekanbro",
-        "aliases": ["github/dekanbro", "discord/689620395438899200"]
+        "aliases": ["github/dekanbro", "discord/435541241795444737"]
       },
       {
         "username": "YalorMewn",
@@ -39,11 +39,11 @@
       },
       {
         "username": "proofoftom",
-        "aliases": ["github/proofoftom", "discord/689572303243313162"]
+        "aliases": ["github/proofoftom", "discord/416481791285657601"]
       },
       {
         "username": "DarrenRM",
-        "aliases": ["github/DarrenRM", "discord/689578557399367685"]
+        "aliases": ["github/DarrenRM", "discord/98845601071894528"]
       }
     ],
     "repoIds": [
@@ -61,6 +61,18 @@
       },
       {
         "name": "RIPs",
+        "owner": "raid-guild"
+      },
+      {
+        "name": "buidler-waffle-typechain-oz-vue",
+        "owner": "raid-guild"
+      },
+      {
+        "name": "gatsby-typescript-dapp-starter",
+        "owner": "raid-guild"
+      },
+      {
+        "name": "gatsby-typescript-dapp-starter",
         "owner": "raid-guild"
       }
     ]
