@@ -1,3 +1,3 @@
 # TheSource
 
-SourceCred Discord stuff
+[SourceCred](https://sourcecred.io/) Discord stuff for [HelpDAO](https://helpdao.org/) ⛑️
