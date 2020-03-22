@@ -1,0 +1,10 @@
+[
+    {
+        "type": "sourcecred/cli/scores",
+        "version": "0.2.0"
+    },
+    {
+        "intervals": [],
+        "users": []
+    }
+]
