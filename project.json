@@ -33,6 +33,9 @@
       {"username": "moarshy", "aliases": ["github/moarshy"]},
       {"username": "AlexMasmej", "aliases": ["github/AlexMasmej", "discord/386587341117980673", "discourse/alexmasmej"]},
       {"username": "mZ", "aliases": ["github/mzargham", "discord/250086586450968576", "discourse/mzargham"]},
+      {"username": "JayWelsh", "aliases": ["github/JayWelsh", "discord/223439370558898176"]},
+      {"username": "pacobacpac", "aliases": ["github/pakokrew", "discord/507972449132871681"]},
+      {"username": "Saimano", "aliases": ["github/manolingam", "discord/505789102222737420"]},
       {"username": "penguin", "aliases": ["github/c0mput3rxz", "discord/208321561982271489", "discourse/c0mput3rxz"]}
     ],
     "repoIds": [
@@ -45,7 +48,7 @@
         "owner": "MetaFam"
       },
       {
-        "name": "MetaGame",
+        "name": "MetaGameWebsite",
         "owner": "MetaFam"
       },
       {
