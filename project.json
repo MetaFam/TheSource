@@ -54,6 +54,10 @@
       {
         "name": "Manifesto",
         "owner": "MetaFam"
+      },
+      {
+        "name": "metagame-wiki",
+        "owner": "MetaFam"
       }
     ]
   }
