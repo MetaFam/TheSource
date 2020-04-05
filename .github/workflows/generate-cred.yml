@@ -5,6 +5,7 @@ on:
   push: 
     branches: 
       - master
+      - experimental
   # As well as every 6 hours.
   schedule:
     - cron: 0 */6 * * *
