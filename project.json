@@ -74,6 +74,22 @@
       {
         "name": "gatsby-typescript-dapp-starter",
         "owner": "raid-guild"
+      },
+      {
+        "name": "moloch-minion",
+        "owner": "raid-guild"
+      },
+      {
+        "name": "wethwrapper-web",
+        "owner": "raid-guild"
+      },
+      {
+        "name": "moloch-dao-badges",
+        "owner": "raid-guild"
+      },
+      {
+        "name": "zipzap-web",
+        "owner": "raid-guild"
       }
     ]
   }
