@@ -1,7 +1,7 @@
 [
   {
     "type": "sourcecred/project",
-    "version": "0.4.0"
+    "version": "0.5.0"
   },
   {
     "id": "@metagame",
@@ -16,6 +16,9 @@
         "🐙": 1,
         "🙏": 1
       }
+    },
+    "initiatives": {
+      "remoteUrl": "https://github.com/MetaFam/TheSource/tree/master/initiatives"
     },
     "discourseServer": {
       "serverUrl": "https://forum.metagame.wtf"
