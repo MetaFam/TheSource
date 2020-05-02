@@ -1,0 +1,26 @@
+[
+  {
+    "type": "sourcecred/initiativeFile",
+    "version": "0.1.0"
+  },
+  {
+    "title": "Intercon: Hosting Streaming",
+    "timestampIso": "2020-03-18T10:00:00.000Z",
+    "weight": {
+      "incomplete": 160,
+      "complete": 160
+    },
+    "_fibonacciWeight": 8,
+    "_multiplier": 20,
+    "completed": true,
+    "champions": [
+      "https://forum.metagame.wtf/u/METADREAMER",
+      "https://forum.metagame.wtf/u/geleeroyale"
+    ],
+    "dependencies": [
+      "https://github.com/MetaFam/TheSource/tree/master/initiatives/2020-03-intercon-tech-setup.json"
+    ],
+    "references": [],
+    "contributions": []
+  }
+]

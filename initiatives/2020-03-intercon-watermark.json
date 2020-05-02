@@ -1,0 +1,23 @@
+[
+  {
+    "type": "sourcecred/initiativeFile",
+    "version": "0.1.0"
+  },
+  {
+    "title": "Intercon: Pretopia Watermark",
+    "timestampIso": "2020-03-15T10:00:00.000Z",
+    "weight": {
+      "incomplete": 20,
+      "complete": 20
+    },
+    "_fibonacciWeight": 1,
+    "_multiplier": 20,
+    "completed": true,
+    "champions": [
+      "https://forum.metagame.wtf/u/c0mput3rxz"
+    ],
+    "dependencies": [],
+    "references": [],
+    "contributions": []
+  }
+]
