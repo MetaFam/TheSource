@@ -1,0 +1,23 @@
+[
+  {
+    "type": "sourcecred/initiativeFile",
+    "version": "0.1.0"
+  },
+  {
+    "title": "Intercon: Graphics Design",
+    "timestampIso": "2020-03-15T10:00:00.000Z",
+    "weight": {
+      "incomplete": 100,
+      "complete": 100
+    },
+    "_fibonacciWeight": 5,
+    "_multiplier": 20,
+    "completed": true,
+    "champions": [
+      "https://forum.metagame.wtf/u/METADREAMER"
+    ],
+    "dependencies": [],
+    "references": [],
+    "contributions": []
+  }
+]

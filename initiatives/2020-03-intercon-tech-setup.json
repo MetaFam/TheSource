@@ -1,0 +1,25 @@
+[
+  {
+    "type": "sourcecred/initiativeFile",
+    "version": "0.1.0"
+  },
+  {
+    "title": "Intercon: Youtube + Hubs + Jitsi Setup",
+    "timestampIso": "2020-03-15T10:00:00.000Z",
+    "weight": {
+      "incomplete": 260,
+      "complete": 260
+    },
+    "_fibonacciWeight": 13,
+    "_multiplier": 20,
+    "completed": true,
+    "champions": [
+      "https://forum.metagame.wtf/u/METADREAMER"
+    ],
+    "dependencies": [
+      "https://github.com/MetaFam/TheSource/tree/master/initiatives/2020-03-intercon-servers.json"
+    ],
+    "references": [],
+    "contributions": []
+  }
+]
