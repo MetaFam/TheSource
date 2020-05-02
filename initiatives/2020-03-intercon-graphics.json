@@ -7,11 +7,10 @@
     "title": "Intercon: Graphics Design",
     "timestampIso": "2020-03-15T10:00:00.000Z",
     "weight": {
-      "incomplete": 100,
-      "complete": 100
+      "incomplete": 5,
+      "complete": 5
     },
     "_fibonacciWeight": 5,
-    "_multiplier": 20,
     "completed": true,
     "champions": [
       "https://forum.metagame.wtf/u/METADREAMER"

@@ -7,11 +7,10 @@
     "title": "Intercon: Updating Interspace",
     "timestampIso": "2020-03-15T10:00:00.000Z",
     "weight": {
-      "incomplete": 60,
-      "complete": 60
+      "incomplete": 3,
+      "complete": 3
     },
     "_fibonacciWeight": 3,
-    "_multiplier": 20,
     "completed": true,
     "champions": [
       "https://forum.metagame.wtf/u/pacobacpac"
