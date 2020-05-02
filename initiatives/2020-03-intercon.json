@@ -17,8 +17,8 @@
       "https://forum.metagame.wtf/u/peth"
     ],
     "dependencies": [
-      "https://github.com/MetaFam/TheSource/tree/master/initiatives/2020-03-mod-recruit.json",
-      "https://github.com/MetaFam/TheSource/tree/master/initiatives/2020-03-speaker-coord.json"
+      "https://github.com/MetaFam/TheSource/tree/master/initiatives/2020-03-intercon-mod-recruit.json",
+      "https://github.com/MetaFam/TheSource/tree/master/initiatives/2020-03-intercon-speaker-coord.json"
     ],
     "references": [],
     "contributions": []
