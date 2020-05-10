@@ -7,14 +7,15 @@
     "title": "Initiating SourceCred Partnership",
     "timestampIso": "2020-01-11T10:00:00.000Z",
     "weight": {
-      "incomplete": 21,
-      "complete": 21
+      "incomplete": 13,
+      "complete": 13
     },
-    "_fibonacciWeight": 21,
+    "_fibonacciWeight": 13,
     "completed": true,
     "champions": [
-      "https://forum.metagame.wtf/u/decentralion",
-      "https://forum.metagame.wtf/u/burrrata"
+      "https://forum.metagame.wtf/u/hammadj",
+      "https://forum.metagame.wtf/u/burrrata",
+      "https://forum.metagame.wtf/u/decentralion"
     ],
     "dependencies": [],
     "references": [],

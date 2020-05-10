@@ -1,0 +1,21 @@
+[
+  {
+    "type": "sourcecred/initiativeFile",
+    "version": "0.2.0"
+  },
+  {
+    "title": "Writing Roadmap / LetsPlay Guide and Notion Docs",
+    "timestampIso": "2020-03-02T10:00:00.000Z",
+    "weight": {
+      "incomplete": 8,
+      "complete": 8
+    },
+    "completed": true,
+    "champions": [
+      "https://forum.metagame.wtf/u/burrrata"
+    ],
+    "dependencies": {},
+    "references": {},
+    "contributions": {}
+  }
+]

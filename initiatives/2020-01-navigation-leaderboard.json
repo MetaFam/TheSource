@@ -1,0 +1,21 @@
+[
+  {
+    "type": "sourcecred/initiativeFile",
+    "version": "0.2.0"
+  },
+  {
+    "title": "Initial Navigation, Leaderboard, and First Quest",
+    "timestampIso": "2020-01-07T10:00:00.000Z",
+    "weight": {
+      "incomplete": 13,
+      "complete": 13
+    },
+    "completed": true,
+    "champions": [
+      "https://forum.metagame.wtf/u/peth"
+    ],
+    "dependencies": {},
+    "references": {},
+    "contributions": {}
+  }
+]

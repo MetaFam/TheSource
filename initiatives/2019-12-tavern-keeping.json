@@ -7,10 +7,9 @@
     "title": "Tavern Keeping (community/DAO management)",
     "timestampIso": "2019-12-30T10:00:00.000Z",
     "weight": {
-      "incomplete": 21,
-      "complete": 21
+      "incomplete": 13,
+      "complete": 13
     },
-    "_fibonacciWeight": 21,
     "completed": true,
     "champions": [
       "https://forum.metagame.wtf/u/Yalortackson"

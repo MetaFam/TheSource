@@ -41,7 +41,7 @@
           ]
         },
         {
-          "weight": 9.4752,
+          "weight": 49.4752,
           "title": "Gitcoin Donation (oovg)",
           "timestampIso": "2020-01-08T07:00:00.000Z",
           "contributors": [
@@ -233,7 +233,7 @@
           ]
         },
         {
-          "weight": 1.9,
+          "weight": 2,
           "title": "Gitcoin Donation (lililashka)",
           "timestampIso": "2020-01-18T07:00:00.000Z",
           "contributors": [
@@ -457,7 +457,7 @@
           ]
         },
         {
-          "weight": 1.9949,
+          "weight": 2,
           "title": "Gitcoin Donation (shep101)",
           "timestampIso": "2020-01-16T07:00:00.000Z",
           "contributors": [
@@ -593,7 +593,7 @@
           ]
         },
         {
-          "weight": 0.2996,
+          "weight": 0.3,
           "title": "Gitcoin Donation (defidude)",
           "timestampIso": "2020-01-15T07:00:00.000Z",
           "contributors": [
@@ -1017,7 +1017,7 @@
           ]
         },
         {
-          "weight": 0.09975,
+          "weight": 0.1,
           "title": "Gitcoin Donation (alexmasmej)",
           "timestampIso": "2020-01-09T07:00:00.000Z",
           "contributors": [
@@ -1097,7 +1097,7 @@
           ]
         },
         {
-          "weight": 0.95,
+          "weight": 13.95,
           "title": "Gitcoin Donation (peth-yursick)",
           "timestampIso": "2020-01-09T07:00:00.000Z",
           "contributors": [
@@ -1113,7 +1113,7 @@
           ]
         },
         {
-          "weight": 10,
+          "weight": 13,
           "title": "Gitcoin Donation (hammadj)",
           "timestampIso": "2020-01-09T07:00:00.000Z",
           "contributors": [
@@ -1153,7 +1153,7 @@
           ]
         },
         {
-          "weight": 1.332,
+          "weight": 43.964,
           "title": "Gitcoin Donation (pet3r-pan)",
           "timestampIso": "2020-01-08T07:00:00.000Z",
           "contributors": [

@@ -1,0 +1,23 @@
+[
+  {
+    "type": "sourcecred/initiativeFile",
+    "version": "0.2.0"
+  },
+  {
+    "title": "SEED Market Tokenomics Design",
+    "timestampIso": "2020-05-01T10:00:00.000Z",
+    "weight": {
+      "incomplete": 13,
+      "complete": 13
+    },
+    "completed": true,
+    "champions": [
+      "https://forum.metagame.wtf/u/burrrata",
+      "https://forum.metagame.wtf/u/METADREAMER",
+      "https://forum.metagame.wtf/u/mzargham"
+    ],
+    "dependencies": {},
+    "references": {},
+    "contributions": {}
+  }
+]
