@@ -1,0 +1,22 @@
+[
+  {
+    "type": "sourcecred/initiativeFile",
+    "version": "0.2.0"
+  },
+  {
+    "title": "Setting Up Initiatives/Quest Plugin",
+    "timestampIso": "2020-05-01T10:00:00.000Z",
+    "weight": {
+      "incomplete": 13,
+      "complete": 13
+    },
+    "completed": true,
+    "champions": [
+      "https://forum.metagame.wtf/u/METADREAMER",
+      "https://github.com/Beanow"
+    ],
+    "dependencies": {},
+    "references": {},
+    "contributions": {}
+  }
+]

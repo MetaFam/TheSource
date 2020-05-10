@@ -4,8 +4,8 @@
     "version": "0.1.0"
   },
   {
-    "title": "ETHDenver Designing + Distributing Character Cards",
-    "timestampIso": "2020-02-08T10:00:00.000Z",
+    "title": "MetaRadio Initial Podcasts Recording / Setup",
+    "timestampIso": "2020-02-14T10:00:00.000Z",
     "weight": {
       "incomplete": 5,
       "complete": 5
@@ -13,6 +13,7 @@
     "_fibonacciWeight": 5,
     "completed": true,
     "champions": [
+      "https://forum.metagame.wtf/u/Yalortackson",
       "https://forum.metagame.wtf/u/peth",
       "https://forum.metagame.wtf/u/METADREAMER"
     ],

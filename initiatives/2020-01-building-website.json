@@ -1,0 +1,26 @@
+[
+  {
+    "type": "sourcecred/initiativeFile",
+    "version": "0.2.0"
+  },
+  {
+    "title": "Building Landing Page Website",
+    "timestampIso": "2020-01-22T10:00:00.000Z",
+    "weight": {
+      "incomplete": 13,
+      "complete": 13
+    },
+    "completed": true,
+    "champions": [
+      "https://forum.metagame.wtf/u/METADREAMER"
+    ],
+    "dependencies": {},
+    "references": {},
+    "contributions": {
+      "urls": [
+        "https://github.com/MetaFam/MetaGameWebsite/commit/2c1b39ee7874671ef0ab24a2b19293ce048adcc5",
+        "https://github.com/MetaFam/MetaGameWebsite/commit/9f50b4afd7d8829a419e8e388ee016f5a6c6a8e0"
+      ]
+    }
+  }
+]

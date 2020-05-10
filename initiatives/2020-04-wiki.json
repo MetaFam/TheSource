@@ -1,0 +1,21 @@
+[
+  {
+    "type": "sourcecred/initiativeFile",
+    "version": "0.2.0"
+  },
+  {
+    "title": "Setting up and creating Wiki",
+    "timestampIso": "2020-04-15T10:00:00.000Z",
+    "weight": {
+      "incomplete": 5,
+      "complete": 5
+    },
+    "completed": true,
+    "champions": [
+      "https://forum.metagame.wtf/u/METADREAMER"
+    ],
+    "dependencies": {},
+    "references": {},
+    "contributions": {}
+  }
+]

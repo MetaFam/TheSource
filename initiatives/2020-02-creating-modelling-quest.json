@@ -1,0 +1,21 @@
+[
+  {
+    "type": "sourcecred/initiativeFile",
+    "version": "0.2.0"
+  },
+  {
+    "title": "Creating Modelling Quest",
+    "timestampIso": "2020-02-27T10:00:00.000Z",
+    "weight": {
+      "incomplete": 3,
+      "complete": 3
+    },
+    "completed": true,
+    "champions": [
+      "https://forum.metagame.wtf/u/mzargham"
+    ],
+    "dependencies": {},
+    "references": {},
+    "contributions": {}
+  }
+]
