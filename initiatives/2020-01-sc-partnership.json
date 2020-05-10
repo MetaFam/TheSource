@@ -4,17 +4,16 @@
     "version": "0.1.0"
   },
   {
-    "title": "Shilling + Writing Content",
-    "timestampIso": "2020-02-01T10:00:00.000Z",
+    "title": "Initiating SourceCred Partnership",
+    "timestampIso": "2020-01-11T10:00:00.000Z",
     "weight": {
-      "incomplete": 8,
-      "complete": 8
+      "incomplete": 21,
+      "complete": 21
     },
-    "_fibonacciWeight": 8,
+    "_fibonacciWeight": 21,
     "completed": true,
     "champions": [
-      "https://forum.metagame.wtf/u/Yalortackson",
-      "https://forum.metagame.wtf/u/peth",
+      "https://forum.metagame.wtf/u/decentralion",
       "https://forum.metagame.wtf/u/burrrata"
     ],
     "dependencies": [],

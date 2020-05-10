@@ -4,8 +4,8 @@
     "version": "0.1.0"
   },
   {
-    "title": "Shilling + Writing Content",
-    "timestampIso": "2020-02-01T10:00:00.000Z",
+    "title": "DAO Setup",
+    "timestampIso": "2020-01-20T10:00:00.000Z",
     "weight": {
       "incomplete": 8,
       "complete": 8
@@ -13,8 +13,6 @@
     "_fibonacciWeight": 8,
     "completed": true,
     "champions": [
-      "https://forum.metagame.wtf/u/Yalortackson",
-      "https://forum.metagame.wtf/u/peth",
       "https://forum.metagame.wtf/u/burrrata"
     ],
     "dependencies": [],

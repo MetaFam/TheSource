@@ -4,16 +4,16 @@
     "version": "0.1.0"
   },
   {
-    "title": "Forums: Setup and Migration",
-    "timestampIso": "2020-02-15T10:00:00.000Z",
+    "title": "ETHCC Presentation",
+    "timestampIso": "2020-03-13T10:00:00.000Z",
     "weight": {
-      "incomplete": 13,
-      "complete": 13
+      "incomplete": 5,
+      "complete": 5
     },
-    "_fibonacciWeight": 13,
+    "_fibonacciWeight": 5,
     "completed": true,
     "champions": [
-      "https://github.com/hammadj"
+      "https://forum.metagame.wtf/u/peth"
     ],
     "dependencies": [],
     "references": [],

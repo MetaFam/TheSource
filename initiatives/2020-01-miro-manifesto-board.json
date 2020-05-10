@@ -4,17 +4,16 @@
     "version": "0.1.0"
   },
   {
-    "title": "Initiating SourceCred Partnership",
+    "title": "Miro Manifesto Board",
     "timestampIso": "2020-02-20T10:00:00.000Z",
     "weight": {
-      "incomplete": 21,
-      "complete": 21
+      "incomplete": 5,
+      "complete": 5
     },
-    "_fibonacciWeight": 21,
+    "_fibonacciWeight": 5,
     "completed": true,
     "champions": [
-      "https://forum.metagame.wtf/u/decentralion",
-      "https://forum.metagame.wtf/u/burrrata"
+      "https://forum.metagame.wtf/u/gus"
     ],
     "dependencies": [],
     "references": [],

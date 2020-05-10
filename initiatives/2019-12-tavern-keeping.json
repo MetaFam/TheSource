@@ -4,7 +4,7 @@
     "version": "0.1.0"
   },
   {
-    "title": "Tavern Keeping (community management)",
+    "title": "Tavern Keeping (community/DAO management)",
     "timestampIso": "2019-12-30T10:00:00.000Z",
     "weight": {
       "incomplete": 21,
@@ -15,7 +15,9 @@
     "champions": [
       "https://forum.metagame.wtf/u/Yalortackson"
     ],
-    "dependencies": [],
+    "dependencies": [
+      "https://github.com/MetaFam/TheSource/tree/master/initiatives/2020-02-setup-dao.json"
+    ],
     "references": [],
     "contributions": []
   }
