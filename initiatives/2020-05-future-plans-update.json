@@ -1,0 +1,31 @@
+[
+  {
+    "type": "sourcecred/initiativeFile",
+    "version": "0.2.0"
+  },
+  {
+    "title": "Presentation on Future Plans",
+    "timestampIso": "2020-05-12T10:00:00.000Z",
+    "weight": {
+      "incomplete": 8,
+      "complete": 8
+    },
+    "completed": true,
+    "champions": [
+      "https://forum.metagame.wtf/u/burrrata",
+      "https://forum.metagame.wtf/u/METADREAMER"
+    ],
+    "dependencies": {},
+    "references": {},
+    "contributions": {
+      "entries": [
+        {
+          "title": "Helping discuss design / plans",
+          "timestampIso": "2020-01-15T10:00:00.000Z",
+          "weight": 2,
+          "contributors": ["https://forum.metagame.wtf/u/peth"]
+        }
+      ]
+    }
+  }
+]

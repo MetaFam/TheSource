@@ -4,16 +4,16 @@
     "version": "0.1.0"
   },
   {
-    "title": "Intercon: Recruiting Moderators",
-    "timestampIso": "2020-03-12T10:00:00.000Z",
+    "title": "Forums: Setup and Migration",
+    "timestampIso": "2020-02-15T10:00:00.000Z",
     "weight": {
-      "incomplete": 3,
-      "complete": 3
+      "incomplete": 13,
+      "complete": 13
     },
-    "_fibonacciWeight": 3,
+    "_fibonacciWeight": 13,
     "completed": true,
     "champions": [
-      "https://forum.metagame.wtf/u/peth"
+      "https://github.com/hammadj"
     ],
     "dependencies": [],
     "references": [],

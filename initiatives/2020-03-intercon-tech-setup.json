@@ -7,11 +7,10 @@
     "title": "Intercon: Youtube + Hubs + Jitsi Setup",
     "timestampIso": "2020-03-15T10:00:00.000Z",
     "weight": {
-      "incomplete": 260,
-      "complete": 260
+      "incomplete": 13,
+      "complete": 13
     },
     "_fibonacciWeight": 13,
-    "_multiplier": 20,
     "completed": true,
     "champions": [
       "https://forum.metagame.wtf/u/METADREAMER"

@@ -4,15 +4,15 @@
     "version": "0.1.0"
   },
   {
-    "title": "Intercon: Graphics Design",
-    "timestampIso": "2020-03-15T10:00:00.000Z",
+    "title": "V1 Backend Infrastructure Setup",
+    "timestampIso": "2020-05-01T10:00:00.000Z",
     "weight": {
       "incomplete": 5,
-      "complete": 5
+      "complete": 21
     },
-    "_fibonacciWeight": 5,
-    "completed": true,
+    "completed": false,
     "champions": [
+      "https://forum.metagame.wtf/u/pacobacpac",
       "https://forum.metagame.wtf/u/METADREAMER"
     ],
     "dependencies": [],

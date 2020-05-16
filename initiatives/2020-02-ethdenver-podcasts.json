@@ -4,16 +4,16 @@
     "version": "0.1.0"
   },
   {
-    "title": "Intercon: Recruiting Moderators",
-    "timestampIso": "2020-03-12T10:00:00.000Z",
+    "title": "ETHDenver Recording Podcasts",
+    "timestampIso": "2020-02-14T10:00:00.000Z",
     "weight": {
-      "incomplete": 3,
-      "complete": 3
+      "incomplete": 5,
+      "complete": 5
     },
-    "_fibonacciWeight": 3,
+    "_fibonacciWeight": 5,
     "completed": true,
     "champions": [
-      "https://forum.metagame.wtf/u/peth"
+      "https://forum.metagame.wtf/u/Yalortackson"
     ],
     "dependencies": [],
     "references": [],

@@ -7,11 +7,10 @@
     "title": "Intercon: Pretopia Watermark",
     "timestampIso": "2020-03-15T10:00:00.000Z",
     "weight": {
-      "incomplete": 20,
-      "complete": 20
+      "incomplete": 1,
+      "complete": 1
     },
     "_fibonacciWeight": 1,
-    "_multiplier": 20,
     "completed": true,
     "champions": [
       "https://forum.metagame.wtf/u/c0mput3rxz"

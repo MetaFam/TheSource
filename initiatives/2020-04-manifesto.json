@@ -1,0 +1,46 @@
+[
+  {
+    "type": "sourcecred/initiativeFile",
+    "version": "0.2.0"
+  },
+  {
+    "title": "Manifesto Writing",
+    "timestampIso": "2020-04-15T10:00:00.000Z",
+    "weight": {
+      "incomplete": 5,
+      "complete": 5
+    },
+    "completed": true,
+    "champions": [],
+    "dependencies": {},
+    "references": {},
+    "contributions": {
+      "entries": [
+        {
+          "weight": 2,
+          "title": "Yalors Manifesto",
+          "timestampIso": "2020-04-05T07:00:00.000Z",
+          "contributors": [
+            "https://forum.metagame.wtf/u/Yalortackson"
+          ]
+        },
+        {
+          "weight": 1,
+          "title": "Gus Manifesto",
+          "timestampIso": "2020-04-05T07:00:00.000Z",
+          "contributors": [
+            "https://forum.metagame.wtf/u/Gus"
+          ]
+        },
+        {
+          "weight": 8,
+          "title": "The MetaGame Manifesto",
+          "timestampIso": "2020-04-20T07:00:00.000Z",
+          "contributors": [
+            "https://forum.metagame.wtf/u/peth"
+          ]
+        }
+      ]
+    }
+  }
+]

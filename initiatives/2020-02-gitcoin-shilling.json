@@ -1,0 +1,22 @@
+[
+  {
+    "type": "sourcecred/initiativeFile",
+    "version": "0.2.0"
+  },
+  {
+    "title": "Shilling for GitCoin Funds",
+    "timestampIso": "2020-02-15T10:00:00.000Z",
+    "weight": {
+      "incomplete": 8,
+      "complete": 8
+    },
+    "completed": true,
+    "champions": [
+      "https://forum.metagame.wtf/u/peth"
+    ],
+    "dependencies": {},
+    "references": {},
+    "contributions": {
+    }
+  }
+]

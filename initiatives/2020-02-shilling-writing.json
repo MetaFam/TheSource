@@ -4,18 +4,18 @@
     "version": "0.1.0"
   },
   {
-    "title": "Intercon: Coordinating Speakers",
-    "timestampIso": "2020-03-12T10:00:00.000Z",
+    "title": "Shilling + Writing Content",
+    "timestampIso": "2020-02-01T10:00:00.000Z",
     "weight": {
-      "incomplete": 13,
-      "complete": 13
+      "incomplete": 8,
+      "complete": 8
     },
-    "_fibonacciWeight": 13,
+    "_fibonacciWeight": 8,
     "completed": true,
     "champions": [
-      "https://forum.metagame.wtf/u/peth",
       "https://forum.metagame.wtf/u/Yalortackson",
-      "https://forum.metagame.wtf/u/DeFiDude"
+      "https://forum.metagame.wtf/u/peth",
+      "https://forum.metagame.wtf/u/burrrata"
     ],
     "dependencies": [],
     "references": [],

@@ -1,0 +1,42 @@
+[
+  {
+    "type": "sourcecred/initiativeFile",
+    "version": "0.2.0"
+  },
+  {
+    "title": "Founding Articles",
+    "timestampIso": "2019-10-15T10:00:00.000Z",
+    "weight": {
+      "incomplete": 21,
+      "complete": 21
+    },
+    "completed": true,
+    "champions": [
+      "https://forum.metagame.wtf/u/peth"
+    ],
+    "dependencies": {},
+    "references": {},
+    "contributions": {
+      "entries": [
+        {
+          "title": "Founding Articles: Part 1",
+          "timestampIso": "2019-09-15T10:00:00.000Z",
+          "weight": 21,
+          "contributors": ["https://forum.metagame.wtf/u/peth"]
+        },
+        {
+          "title": "Founding Articles: Part 2",
+          "timestampIso": "2019-10-15T10:00:00.000Z",
+          "weight": 21,
+          "contributors": ["https://forum.metagame.wtf/u/peth"]
+        },
+        {
+          "title": "Founding Articles: Part 3",
+          "timestampIso": "2019-11-15T10:00:00.000Z",
+          "weight": 21,
+          "contributors": ["https://forum.metagame.wtf/u/peth"]
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,25 @@
+[
+  {
+    "type": "sourcecred/initiativeFile",
+    "version": "0.1.0"
+  },
+  {
+    "title": "Creating new XP system with SourceCred",
+    "timestampIso": "2020-03-01T10:00:00.000Z",
+    "weight": {
+      "incomplete": 21,
+      "complete": 21
+    },
+    "_fibonacciWeight": 21,
+    "completed": true,
+    "champions": [
+      "https://forum.metagame.wtf/u/METADREAMER",
+      "https://forum.metagame.wtf/u/burrrata"
+    ],
+    "dependencies": [
+      "https://github.com/MetaFam/TheSource/tree/master/initiatives/2020-01-sc-partnership.json"
+    ],
+    "references": [],
+    "contributions": []
+  }
+]
