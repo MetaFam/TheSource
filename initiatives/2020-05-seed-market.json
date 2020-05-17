@@ -17,7 +17,9 @@
       "https://forum.metagame.wtf/u/mzargham"
     ],
     "dependencies": {},
-    "references": {},
+    "references": {
+      "urls": ["https://forum.metagame.wtf/t/the-metagame-seed-market/32"]
+    },
     "contributions": {}
   }
 ]
