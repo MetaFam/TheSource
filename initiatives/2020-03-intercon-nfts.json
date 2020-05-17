@@ -4,17 +4,14 @@
     "version": "0.1.0"
   },
   {
-    "title": "Intercon: Coordinating Speakers",
-    "timestampIso": "2020-03-12T10:00:00.000Z",
+    "title": "Intercon: Making NFT Badges",
+    "timestampIso": "2020-03-18T10:00:00.000Z",
     "weight": {
-      "incomplete": 13,
-      "complete": 13
+      "incomplete": 5,
+      "complete": 5
     },
-    "_fibonacciWeight": 13,
     "completed": true,
     "champions": [
-      "https://forum.metagame.wtf/u/peth",
-      "https://forum.metagame.wtf/u/Yalortackson",
       "https://github.com/DeFiDude"
     ],
     "dependencies": [],

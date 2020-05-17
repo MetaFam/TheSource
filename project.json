@@ -57,7 +57,9 @@
       {"username": "davidhq", "aliases": ["discourse/david", "discord/97663671152410624"]},
       { "username": "penguin", "aliases": ["github/c0mput3rxz", "discord/208321561982271489", "discourse/c0mput3rxz"]},
       { "username": "meemurbit", "aliases": ["github/kerstentw", "discord/680008059678228480"]},
-      { "username": "aaron", "aliases": ["github/pythonpete32", "discord/571023281382227978"]}
+      { "username": "aaron", "aliases": ["github/pythonpete32", "discord/571023281382227978"]},
+      { "username": "DeFiDude", "aliases": ["github/DeFiDude", "discord/640018738778865695"]},
+      { "username": "BurningFiat", "aliases": ["github/drewharding", "discord/476721554311610369"]}
     ],
     "repoIds": [
       {
