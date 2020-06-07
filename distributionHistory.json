@@ -1,1 +1,2650 @@
-[]
+[
+    {
+        "interval": {
+            "endTimeMs": 1591488000000,
+            "startTimeMs": 1590883200000
+        },
+        "payments": [
+            {
+                "alias": "sourcecred/@peth-yursick",
+                "fast": 70914,
+                "slow": 160352
+            },
+            {
+                "alias": "sourcecred/@hammadj",
+                "fast": 20381,
+                "slow": 173753
+            },
+            {
+                "alias": "sourcecred/@YalorMewn",
+                "fast": 2902,
+                "slow": 128466
+            },
+            {
+                "alias": "sourcecred/@burrrata",
+                "fast": 39996,
+                "slow": 66652
+            },
+            {
+                "alias": "sourcecred/@mZ",
+                "fast": 3806,
+                "slow": 21082
+            },
+            {
+                "alias": "sourcecred/@geleeroyale",
+                "fast": 156,
+                "slow": 24367
+            },
+            {
+                "alias": "sourcecred/@Saimano",
+                "fast": 3380,
+                "slow": 20861
+            },
+            {
+                "alias": "sourcecred/@pacobacpac",
+                "fast": 3370,
+                "slow": 19012
+            },
+            {
+                "alias": "sourcecred/@penguin",
+                "fast": 2070,
+                "slow": 18332
+            },
+            {
+                "alias": "sourcecred/@decentralion",
+                "fast": 1333,
+                "slow": 16265
+            },
+            {
+                "alias": "sourcecred/@Gus",
+                "fast": 50,
+                "slow": 13706
+            },
+            {
+                "alias": "discourse/@Mauro",
+                "fast": 1801,
+                "slow": 11026
+            },
+            {
+                "alias": "sourcecred/@pet3rpan",
+                "fast": 288,
+                "slow": 12563
+            },
+            {
+                "alias": "sourcecred/@JayWelsh",
+                "fast": 13,
+                "slow": 11887
+            },
+            {
+                "alias": "sourcecred/@drllau",
+                "fast": 4818,
+                "slow": 1937
+            },
+            {
+                "alias": "discord/#548358064076619776",
+                "fast": 13,
+                "slow": 6401
+            },
+            {
+                "alias": "sourcecred/@sepu85",
+                "fast": 25,
+                "slow": 6084
+            },
+            {
+                "alias": "sourcecred/@meemurbit",
+                "fast": 420,
+                "slow": 5670
+            },
+            {
+                "alias": "sourcecred/@nicolas-law",
+                "fast": 514,
+                "slow": 5175
+            },
+            {
+                "alias": "discord/#614726088832319494",
+                "fast": 0,
+                "slow": 4918
+            },
+            {
+                "alias": "discord/#367747285842657290",
+                "fast": 3,
+                "slow": 4867
+            },
+            {
+                "alias": "discord/#639148696717492235",
+                "fast": 0,
+                "slow": 4584
+            },
+            {
+                "alias": "sourcecred/@davidhq",
+                "fast": 3173,
+                "slow": 960
+            },
+            {
+                "alias": "sourcecred/@RHolmes",
+                "fast": 9,
+                "slow": 4024
+            },
+            {
+                "alias": "sourcecred/@rhyswd",
+                "fast": 0,
+                "slow": 4018
+            },
+            {
+                "alias": "discourse/@jadbox",
+                "fast": 12678,
+                "slow": 0
+            },
+            {
+                "alias": "discord/#534096431376498708",
+                "fast": 375,
+                "slow": 3379
+            },
+            {
+                "alias": "discord/#377359211144675330",
+                "fast": 805,
+                "slow": 2935
+            },
+            {
+                "alias": "discord/#213864298391273473",
+                "fast": 0,
+                "slow": 3727
+            },
+            {
+                "alias": "discord/#333762201468796928",
+                "fast": 5,
+                "slow": 3603
+            },
+            {
+                "alias": "github/@krzysu",
+                "fast": 2070,
+                "slow": 1414
+            },
+            {
+                "alias": "sourcecred/@Polycarp",
+                "fast": 2596,
+                "slow": 624
+            },
+            {
+                "alias": "sourcecred/@auryn",
+                "fast": 16,
+                "slow": 3232
+            },
+            {
+                "alias": "discord/#412873985773142016",
+                "fast": 0,
+                "slow": 3188
+            },
+            {
+                "alias": "discord/#639178210235514900",
+                "fast": 494,
+                "slow": 2296
+            },
+            {
+                "alias": "github/@dependabot",
+                "fast": 5,
+                "slow": 1847
+            },
+            {
+                "alias": "discord/#688670175511576636",
+                "fast": 5,
+                "slow": 2484
+            },
+            {
+                "alias": "discord/#324631108731928587",
+                "fast": 59,
+                "slow": 2256
+            },
+            {
+                "alias": "discord/#220386581851144194",
+                "fast": 0,
+                "slow": 2275
+            },
+            {
+                "alias": "discord/#427964041764274177",
+                "fast": 99,
+                "slow": 2004
+            },
+            {
+                "alias": "discourse/@Patrick727",
+                "fast": 256,
+                "slow": 1762
+            },
+            {
+                "alias": "discord/#656860158416257026",
+                "fast": 310,
+                "slow": 1498
+            },
+            {
+                "alias": "discord/#633820251842412554",
+                "fast": 292,
+                "slow": 1436
+            },
+            {
+                "alias": "discourse/@Toddxy",
+                "fast": 107,
+                "slow": 1596
+            },
+            {
+                "alias": "discord/#501641034523082752",
+                "fast": 0,
+                "slow": 1544
+            },
+            {
+                "alias": "discord/#459085466239631371",
+                "fast": 0,
+                "slow": 1525
+            },
+            {
+                "alias": "github/@phys3",
+                "fast": 1,
+                "slow": 1476
+            },
+            {
+                "alias": "discord/#344319476507869185",
+                "fast": 274,
+                "slow": 1197
+            },
+            {
+                "alias": "sourcecred/@manualzuru",
+                "fast": 1,
+                "slow": 1464
+            },
+            {
+                "alias": "discord/#440281764204642314",
+                "fast": 86,
+                "slow": 1376
+            },
+            {
+                "alias": "discord/#606105191690797056",
+                "fast": 1398,
+                "slow": 38
+            },
+            {
+                "alias": "sourcecred/@aaron",
+                "fast": 0,
+                "slow": 1437
+            },
+            {
+                "alias": "sourcecred/@proofoftom",
+                "fast": 0,
+                "slow": 1422
+            },
+            {
+                "alias": "discord/#685809900042977386",
+                "fast": 0,
+                "slow": 1402
+            },
+            {
+                "alias": "discourse/@PhilH",
+                "fast": 3,
+                "slow": 1397
+            },
+            {
+                "alias": "discourse/@Albert",
+                "fast": 2028,
+                "slow": 0
+            },
+            {
+                "alias": "discourse/@mars",
+                "fast": 2467,
+                "slow": 0
+            },
+            {
+                "alias": "sourcecred/@vengist",
+                "fast": 1,
+                "slow": 1349
+            },
+            {
+                "alias": "discord/#222844791744888832",
+                "fast": 663,
+                "slow": 657
+            },
+            {
+                "alias": "discourse/@audsssy",
+                "fast": 14,
+                "slow": 1280
+            },
+            {
+                "alias": "sourcecred/@kinchasa",
+                "fast": 0,
+                "slow": 1275
+            },
+            {
+                "alias": "discord/#382273717725560843",
+                "fast": 0,
+                "slow": 1274
+            },
+            {
+                "alias": "discord/#364132009200582656",
+                "fast": 0,
+                "slow": 1240
+            },
+            {
+                "alias": "discourse/@Nenad",
+                "fast": 3,
+                "slow": 1233
+            },
+            {
+                "alias": "github/@maxieprotocol",
+                "fast": 1,
+                "slow": 1210
+            },
+            {
+                "alias": "discord/#136237083571257351",
+                "fast": 0,
+                "slow": 1209
+            },
+            {
+                "alias": "discord/#290130728128217099",
+                "fast": 0,
+                "slow": 1209
+            },
+            {
+                "alias": "discord/#414060570002587659",
+                "fast": 0,
+                "slow": 1207
+            },
+            {
+                "alias": "discourse/@raphazar",
+                "fast": 17,
+                "slow": 1169
+            },
+            {
+                "alias": "discord/#475837235661635594",
+                "fast": 4,
+                "slow": 1167
+            },
+            {
+                "alias": "discord/#245558477508837376",
+                "fast": 794,
+                "slow": 349
+            },
+            {
+                "alias": "discord/#403238566769065985",
+                "fast": 0,
+                "slow": 1151
+            },
+            {
+                "alias": "discord/#676517295643820032",
+                "fast": 0,
+                "slow": 1141
+            },
+            {
+                "alias": "discord/#573453392383574016",
+                "fast": 0,
+                "slow": 1130
+            },
+            {
+                "alias": "discord/#523401372188540939",
+                "fast": 3790,
+                "slow": 0
+            },
+            {
+                "alias": "github/@vinhyenvodoi98",
+                "fast": 18,
+                "slow": 1062
+            },
+            {
+                "alias": "discord/#673967290068500491",
+                "fast": 6,
+                "slow": 1021
+            },
+            {
+                "alias": "discord/#186994498352578563",
+                "fast": 0,
+                "slow": 1019
+            },
+            {
+                "alias": "discourse/@deepcryptodive",
+                "fast": 0,
+                "slow": 1008
+            },
+            {
+                "alias": "discord/#382327204094279680",
+                "fast": 0,
+                "slow": 998
+            },
+            {
+                "alias": "discord/#322148006352912385",
+                "fast": 282,
+                "slow": 707
+            },
+            {
+                "alias": "discord/#358106929328816129",
+                "fast": 522,
+                "slow": 448
+            },
+            {
+                "alias": "discord/#648099371073929216",
+                "fast": 0,
+                "slow": 974
+            },
+            {
+                "alias": "github/@mul53",
+                "fast": 18,
+                "slow": 913
+            },
+            {
+                "alias": "discourse/@MarkO",
+                "fast": 393,
+                "slow": 522
+            },
+            {
+                "alias": "discord/#380529871505457158",
+                "fast": 1310,
+                "slow": 0
+            },
+            {
+                "alias": "discord/#491227349900328961",
+                "fast": 8,
+                "slow": 855
+            },
+            {
+                "alias": "discourse/@youngkidwarrior",
+                "fast": 829,
+                "slow": 0
+            },
+            {
+                "alias": "discourse/@s_ben",
+                "fast": 22,
+                "slow": 828
+            },
+            {
+                "alias": "discord/#111007386507948032",
+                "fast": 7,
+                "slow": 833
+            },
+            {
+                "alias": "discord/#511575159929438224",
+                "fast": 0,
+                "slow": 835
+            },
+            {
+                "alias": "discord/#524155414359572491",
+                "fast": 0,
+                "slow": 831
+            },
+            {
+                "alias": "discord/#291388682710024192",
+                "fast": 97,
+                "slow": 725
+            },
+            {
+                "alias": "discord/#547240329166848020",
+                "fast": 0,
+                "slow": 818
+            },
+            {
+                "alias": "sourcecred/@Beanow",
+                "fast": 53,
+                "slow": 763
+            },
+            {
+                "alias": "sourcecred/@BurningFiat",
+                "fast": 1,
+                "slow": 816
+            },
+            {
+                "alias": "discord/#264508693259878401",
+                "fast": 95,
+                "slow": 701
+            },
+            {
+                "alias": "discord/#218367067441594368",
+                "fast": 3,
+                "slow": 792
+            },
+            {
+                "alias": "discord/#674950973097246733",
+                "fast": 0,
+                "slow": 788
+            },
+            {
+                "alias": "discord/#686408481737408576",
+                "fast": 86,
+                "slow": 688
+            },
+            {
+                "alias": "sourcecred/@AlexMasmej",
+                "fast": 9,
+                "slow": 753
+            },
+            {
+                "alias": "discord/#435416414959042560",
+                "fast": 42,
+                "slow": 714
+            },
+            {
+                "alias": "discord/#371754999304290304",
+                "fast": 1,
+                "slow": 754
+            },
+            {
+                "alias": "discord/#635949662112579594",
+                "fast": 0,
+                "slow": 742
+            },
+            {
+                "alias": "discord/#426562009568509953",
+                "fast": 0,
+                "slow": 739
+            },
+            {
+                "alias": "discord/#586179020786499604",
+                "fast": 0,
+                "slow": 733
+            },
+            {
+                "alias": "discord/#652515069875191819",
+                "fast": 0,
+                "slow": 732
+            },
+            {
+                "alias": "discord/#530345211151515648",
+                "fast": 113,
+                "slow": 608
+            },
+            {
+                "alias": "discord/#484862180370677761",
+                "fast": 212,
+                "slow": 504
+            },
+            {
+                "alias": "discord/#537858848912834561",
+                "fast": 0,
+                "slow": 692
+            },
+            {
+                "alias": "discourse/@0xLEDev",
+                "fast": 1604,
+                "slow": 0
+            },
+            {
+                "alias": "discord/#665203331639148553",
+                "fast": 0,
+                "slow": 688
+            },
+            {
+                "alias": "discord/#265377598471667712",
+                "fast": 2049,
+                "slow": 0
+            },
+            {
+                "alias": "discord/#468465471029641226",
+                "fast": 0,
+                "slow": 671
+            },
+            {
+                "alias": "discourse/@maraoz",
+                "fast": 0,
+                "slow": 667
+            },
+            {
+                "alias": "discord/#581837371520057355",
+                "fast": 0,
+                "slow": 660
+            },
+            {
+                "alias": "discourse/@Sky",
+                "fast": 2,
+                "slow": 652
+            },
+            {
+                "alias": "discord/#453224480433766411",
+                "fast": 140,
+                "slow": 510
+            },
+            {
+                "alias": "discourse/@santteegt",
+                "fast": 71,
+                "slow": 564
+            },
+            {
+                "alias": "sourcecred/@DeFiDude",
+                "fast": 2,
+                "slow": 629
+            },
+            {
+                "alias": "discord/#384022681932005387",
+                "fast": 991,
+                "slow": 0
+            },
+            {
+                "alias": "discord/#277161213253779456",
+                "fast": 0,
+                "slow": 585
+            },
+            {
+                "alias": "discord/#197685576768552960",
+                "fast": 0,
+                "slow": 583
+            },
+            {
+                "alias": "discord/#362705284029743105",
+                "fast": 649,
+                "slow": 0
+            },
+            {
+                "alias": "discord/#487208939084185601",
+                "fast": 0,
+                "slow": 577
+            },
+            {
+                "alias": "discourse/@freeb0rn",
+                "fast": 9,
+                "slow": 563
+            },
+            {
+                "alias": "discourse/@castall",
+                "fast": 20,
+                "slow": 547
+            },
+            {
+                "alias": "discourse/@krzysu",
+                "fast": 40,
+                "slow": 527
+            },
+            {
+                "alias": "discord/#378595508748550145",
+                "fast": 5,
+                "slow": 562
+            },
+            {
+                "alias": "discord/#165910079416041473",
+                "fast": 0,
+                "slow": 315
+            },
+            {
+                "alias": "discord/#706415782149488681",
+                "fast": 1228,
+                "slow": 0
+            },
+            {
+                "alias": "discord/#680145357899956235",
+                "fast": 0,
+                "slow": 541
+            },
+            {
+                "alias": "github/@wkarshat",
+                "fast": 0,
+                "slow": 533
+            },
+            {
+                "alias": "discord/#487561269914894338",
+                "fast": 51,
+                "slow": 454
+            },
+            {
+                "alias": "discourse/@Owocki",
+                "fast": 331,
+                "slow": 161
+            },
+            {
+                "alias": "discord/#466370740468318208",
+                "fast": 1750,
+                "slow": 0
+            },
+            {
+                "alias": "discord/#619846689594802196",
+                "fast": 0,
+                "slow": 475
+            },
+            {
+                "alias": "discourse/@markop",
+                "fast": 135,
+                "slow": 335
+            },
+            {
+                "alias": "discord/#354688240466264064",
+                "fast": 0,
+                "slow": 455
+            },
+            {
+                "alias": "discord/#356513859185541120",
+                "fast": 1067,
+                "slow": 0
+            },
+            {
+                "alias": "discord/#653052302487453717",
+                "fast": 0,
+                "slow": 454
+            },
+            {
+                "alias": "sourcecred/@sbutler-gh",
+                "fast": 0,
+                "slow": 447
+            },
+            {
+                "alias": "discord/#213767993153290250",
+                "fast": 3,
+                "slow": 436
+            },
+            {
+                "alias": "github/@Christofon",
+                "fast": 0,
+                "slow": 439
+            },
+            {
+                "alias": "discord/#326397724675276802",
+                "fast": 937,
+                "slow": 0
+            },
+            {
+                "alias": "discord/#486079775165906960",
+                "fast": 473,
+                "slow": 0
+            },
+            {
+                "alias": "discord/#218101199268741120",
+                "fast": 861,
+                "slow": 0
+            },
+            {
+                "alias": "discourse/@LBS",
+                "fast": 312,
+                "slow": 94
+            },
+            {
+                "alias": "discord/#300353841835147265",
+                "fast": 423,
+                "slow": 0
+            },
+            {
+                "alias": "discord/#676720556606881803",
+                "fast": 0,
+                "slow": 408
+            },
+            {
+                "alias": "discord/#428932764264562699",
+                "fast": 0,
+                "slow": 405
+            },
+            {
+                "alias": "discord/#658539481439141909",
+                "fast": 31,
+                "slow": 372
+            },
+            {
+                "alias": "discord/#471384482126233600",
+                "fast": 54,
+                "slow": 346
+            },
+            {
+                "alias": "discord/#649008336922214421",
+                "fast": 1224,
+                "slow": 0
+            },
+            {
+                "alias": "discord/#429147758432223242",
+                "fast": 0,
+                "slow": 367
+            },
+            {
+                "alias": "discord/#219558663533232128",
+                "fast": 0,
+                "slow": 357
+            },
+            {
+                "alias": "discord/#709480829579165717",
+                "fast": 408,
+                "slow": 0
+            },
+            {
+                "alias": "discord/#676541987435839518",
+                "fast": 0,
+                "slow": 346
+            },
+            {
+                "alias": "discord/#578941904000122883",
+                "fast": 0,
+                "slow": 302
+            },
+            {
+                "alias": "discord/#533053420819578902",
+                "fast": 0,
+                "slow": 302
+            },
+            {
+                "alias": "discord/#677297879118774285",
+                "fast": 0,
+                "slow": 301
+            },
+            {
+                "alias": "discord/#683892894767251489",
+                "fast": 468,
+                "slow": 0
+            },
+            {
+                "alias": "discord/#535024024200413195",
+                "fast": 538,
+                "slow": 0
+            },
+            {
+                "alias": "discord/#565818340333846529",
+                "fast": 14,
+                "slow": 284
+            },
+            {
+                "alias": "discord/#518933267408355328",
+                "fast": 618,
+                "slow": 0
+            },
+            {
+                "alias": "discord/#400387747648634882",
+                "fast": 0,
+                "slow": 287
+            },
+            {
+                "alias": "discord/#225268766974410752",
+                "fast": 0,
+                "slow": 284
+            },
+            {
+                "alias": "discord/#682640741918310421",
+                "fast": 0,
+                "slow": 281
+            },
+            {
+                "alias": "discourse/@porobov.p",
+                "fast": 0,
+                "slow": 274
+            },
+            {
+                "alias": "discord/#233316835725017088",
+                "fast": 0,
+                "slow": 272
+            },
+            {
+                "alias": "discord/#183833390569619456",
+                "fast": 277,
+                "slow": 0
+            },
+            {
+                "alias": "discord/#522865910516678710",
+                "fast": 0,
+                "slow": 271
+            },
+            {
+                "alias": "discord/#382622529296138243",
+                "fast": 0,
+                "slow": 269
+            },
+            {
+                "alias": "discord/#593249264164012032",
+                "fast": 1239,
+                "slow": 0
+            },
+            {
+                "alias": "discord/#615937766966034464",
+                "fast": 1,
+                "slow": 256
+            },
+            {
+                "alias": "discord/#500307797104263178",
+                "fast": 0,
+                "slow": 242
+            },
+            {
+                "alias": "discord/#683061365543403536",
+                "fast": 0,
+                "slow": 238
+            },
+            {
+                "alias": "discourse/@DanForbes",
+                "fast": 2,
+                "slow": 230
+            },
+            {
+                "alias": "discord/#374951910991724544",
+                "fast": 0,
+                "slow": 230
+            },
+            {
+                "alias": "discord/#679156502220636200",
+                "fast": 0,
+                "slow": 229
+            },
+            {
+                "alias": "discord/#327715687009091595",
+                "fast": 1148,
+                "slow": 0
+            },
+            {
+                "alias": "discord/#491254887951106059",
+                "fast": 0,
+                "slow": 216
+            },
+            {
+                "alias": "discord/#373717228660719616",
+                "fast": 0,
+                "slow": 209
+            },
+            {
+                "alias": "discord/#196722506676174848",
+                "fast": 126,
+                "slow": 66
+            },
+            {
+                "alias": "discord/#351087363369467905",
+                "fast": 0,
+                "slow": 190
+            },
+            {
+                "alias": "discord/#380864180896530441",
+                "fast": 0,
+                "slow": 177
+            },
+            {
+                "alias": "discord/#329826778942013441",
+                "fast": 3,
+                "slow": 170
+            },
+            {
+                "alias": "discord/#308430775684956161",
+                "fast": 1071,
+                "slow": 0
+            },
+            {
+                "alias": "discord/#476021993834020865",
+                "fast": 0,
+                "slow": 162
+            },
+            {
+                "alias": "discord/#204773987325050880",
+                "fast": 4,
+                "slow": 156
+            },
+            {
+                "alias": "discord/#417976167216185345",
+                "fast": 1010,
+                "slow": 0
+            },
+            {
+                "alias": "discord/#213849397203566592",
+                "fast": 0,
+                "slow": 153
+            },
+            {
+                "alias": "discord/#688956090305609762",
+                "fast": 1,
+                "slow": 143
+            },
+            {
+                "alias": "discord/#652210513886969902",
+                "fast": 0,
+                "slow": 141
+            },
+            {
+                "alias": "discord/#124016824202297344",
+                "fast": 0,
+                "slow": 138
+            },
+            {
+                "alias": "discord/#428482726421856257",
+                "fast": 18,
+                "slow": 119
+            },
+            {
+                "alias": "discord/#665861233773117442",
+                "fast": 0,
+                "slow": 136
+            },
+            {
+                "alias": "discord/#665895775565250560",
+                "fast": 0,
+                "slow": 136
+            },
+            {
+                "alias": "discord/#641623295309119488",
+                "fast": 1,
+                "slow": 133
+            },
+            {
+                "alias": "discord/#407584937047228436",
+                "fast": 0,
+                "slow": 129
+            },
+            {
+                "alias": "discord/#77492786336636928",
+                "fast": 2,
+                "slow": 125
+            },
+            {
+                "alias": "discord/#487309948796141579",
+                "fast": 0,
+                "slow": 125
+            },
+            {
+                "alias": "discord/#598510113849868341",
+                "fast": 0,
+                "slow": 122
+            },
+            {
+                "alias": "discord/#701533463441965156",
+                "fast": 0,
+                "slow": 0
+            },
+            {
+                "alias": "discord/#346803924692369429",
+                "fast": 0,
+                "slow": 119
+            },
+            {
+                "alias": "discord/#688748669268132001",
+                "fast": 6,
+                "slow": 107
+            },
+            {
+                "alias": "discord/#566008224545767467",
+                "fast": 0,
+                "slow": 113
+            },
+            {
+                "alias": "discord/#403024531632947202",
+                "fast": 0,
+                "slow": 113
+            },
+            {
+                "alias": "discord/#583368547166715905",
+                "fast": 0,
+                "slow": 105
+            },
+            {
+                "alias": "discord/#636261045606023169",
+                "fast": 427,
+                "slow": 0
+            },
+            {
+                "alias": "discord/#416492684132352000",
+                "fast": 2,
+                "slow": 98
+            },
+            {
+                "alias": "discord/#401229180638986251",
+                "fast": 0,
+                "slow": 100
+            },
+            {
+                "alias": "discord/#307991144124383252",
+                "fast": 0,
+                "slow": 97
+            },
+            {
+                "alias": "discord/#412979253974663170",
+                "fast": 0,
+                "slow": 95
+            },
+            {
+                "alias": "discord/#385751122738020353",
+                "fast": 35,
+                "slow": 60
+            },
+            {
+                "alias": "github/@danforbes",
+                "fast": 0,
+                "slow": 93
+            },
+            {
+                "alias": "discord/#427493305144705026",
+                "fast": 99,
+                "slow": 0
+            },
+            {
+                "alias": "discord/#157400886874865664",
+                "fast": 0,
+                "slow": 90
+            },
+            {
+                "alias": "discord/#281959219865845761",
+                "fast": 0,
+                "slow": 90
+            },
+            {
+                "alias": "discord/#449566387979943937",
+                "fast": 64,
+                "slow": 23
+            },
+            {
+                "alias": "discord/#421290750396071947",
+                "fast": 0,
+                "slow": 87
+            },
+            {
+                "alias": "discord/#363774203960360961",
+                "fast": 0,
+                "slow": 86
+            },
+            {
+                "alias": "discord/#647757617430790144",
+                "fast": 0,
+                "slow": 83
+            },
+            {
+                "alias": "discord/#155425092422074378",
+                "fast": 0,
+                "slow": 80
+            },
+            {
+                "alias": "discord/#680651158569615360",
+                "fast": 0,
+                "slow": 80
+            },
+            {
+                "alias": "discord/#616679460212572165",
+                "fast": 0,
+                "slow": 78
+            },
+            {
+                "alias": "discord/#455316071323402242",
+                "fast": 0,
+                "slow": 77
+            },
+            {
+                "alias": "discord/#672282221012320256",
+                "fast": 2,
+                "slow": 73
+            },
+            {
+                "alias": "discord/#213220200990900227",
+                "fast": 0,
+                "slow": 75
+            },
+            {
+                "alias": "discord/#667901465003687954",
+                "fast": 0,
+                "slow": 72
+            },
+            {
+                "alias": "discord/#482444270687748106",
+                "fast": 0,
+                "slow": 72
+            },
+            {
+                "alias": "discord/#338152116000653325",
+                "fast": 6,
+                "slow": 65
+            },
+            {
+                "alias": "discord/#680685207325900800",
+                "fast": 0,
+                "slow": 68
+            },
+            {
+                "alias": "discord/#537466222904606730",
+                "fast": 0,
+                "slow": 67
+            },
+            {
+                "alias": "discord/#651397122855534592",
+                "fast": 13,
+                "slow": 54
+            },
+            {
+                "alias": "discord/#630186286434484234",
+                "fast": 0,
+                "slow": 66
+            },
+            {
+                "alias": "discord/#155149108183695360",
+                "fast": 0,
+                "slow": 65
+            },
+            {
+                "alias": "discord/#160063208093122561",
+                "fast": 0,
+                "slow": 64
+            },
+            {
+                "alias": "discord/#268453713201332235",
+                "fast": 0,
+                "slow": 62
+            },
+            {
+                "alias": "discord/#291885753049284608",
+                "fast": 0,
+                "slow": 61
+            },
+            {
+                "alias": "discord/#240359352546885633",
+                "fast": 0,
+                "slow": 60
+            },
+            {
+                "alias": "discord/#157921275317059584",
+                "fast": 0,
+                "slow": 60
+            },
+            {
+                "alias": "discord/#621474267988623393",
+                "fast": 0,
+                "slow": 59
+            },
+            {
+                "alias": "discord/#333143183355543552",
+                "fast": 1,
+                "slow": 58
+            },
+            {
+                "alias": "discord/#138809306408550400",
+                "fast": 8,
+                "slow": 49
+            },
+            {
+                "alias": "discord/#391253771843403790",
+                "fast": 0,
+                "slow": 57
+            },
+            {
+                "alias": "discourse/@jlwaugh",
+                "fast": 0,
+                "slow": 57
+            },
+            {
+                "alias": "discord/#646347207540342784",
+                "fast": 77,
+                "slow": 0
+            },
+            {
+                "alias": "discord/#176130235157315584",
+                "fast": 0,
+                "slow": 53
+            },
+            {
+                "alias": "discord/#141155201120731136",
+                "fast": 0,
+                "slow": 52
+            },
+            {
+                "alias": "discord/#292941417041625088",
+                "fast": 0,
+                "slow": 51
+            },
+            {
+                "alias": "discord/#144600111660400640",
+                "fast": 0,
+                "slow": 50
+            },
+            {
+                "alias": "discord/#272939416501223424",
+                "fast": 0,
+                "slow": 50
+            },
+            {
+                "alias": "discord/#666212250759200799",
+                "fast": 0,
+                "slow": 50
+            },
+            {
+                "alias": "discord/#328271135273648130",
+                "fast": 0,
+                "slow": 50
+            },
+            {
+                "alias": "discord/#147418612771192833",
+                "fast": 43,
+                "slow": 5
+            },
+            {
+                "alias": "discord/#695544250053558343",
+                "fast": 0,
+                "slow": 49
+            },
+            {
+                "alias": "discord/#397962961617944576",
+                "fast": 0,
+                "slow": 49
+            },
+            {
+                "alias": "discord/#666962856218198057",
+                "fast": 0,
+                "slow": 49
+            },
+            {
+                "alias": "discord/#482995162168033290",
+                "fast": 0,
+                "slow": 49
+            },
+            {
+                "alias": "discord/#587646373504221185",
+                "fast": 0,
+                "slow": 48
+            },
+            {
+                "alias": "discord/#639481647418572801",
+                "fast": 0,
+                "slow": 48
+            },
+            {
+                "alias": "discord/#187076806413778944",
+                "fast": 0,
+                "slow": 45
+            },
+            {
+                "alias": "discord/#665236020312145930",
+                "fast": 0,
+                "slow": 45
+            },
+            {
+                "alias": "discord/#112440300693094400",
+                "fast": 0,
+                "slow": 44
+            },
+            {
+                "alias": "discord/#288174418125914122",
+                "fast": 0,
+                "slow": 44
+            },
+            {
+                "alias": "discord/#485831398486179841",
+                "fast": 0,
+                "slow": 44
+            },
+            {
+                "alias": "discord/#507915563796922369",
+                "fast": 0,
+                "slow": 44
+            },
+            {
+                "alias": "discord/#601440499747782695",
+                "fast": 0,
+                "slow": 44
+            },
+            {
+                "alias": "discord/#541096458942808084",
+                "fast": 0,
+                "slow": 43
+            },
+            {
+                "alias": "discord/#461523732452605958",
+                "fast": 6,
+                "slow": 36
+            },
+            {
+                "alias": "github/@drllau",
+                "fast": 3,
+                "slow": 38
+            },
+            {
+                "alias": "discord/#519134619568832522",
+                "fast": 0,
+                "slow": 40
+            },
+            {
+                "alias": "discord/#352818406266896385",
+                "fast": 0,
+                "slow": 40
+            },
+            {
+                "alias": "discord/#364580768728743950",
+                "fast": 0,
+                "slow": 40
+            },
+            {
+                "alias": "discord/#372372643782983691",
+                "fast": 0,
+                "slow": 40
+            },
+            {
+                "alias": "discord/#394257701028233217",
+                "fast": 0,
+                "slow": 40
+            },
+            {
+                "alias": "discord/#549708299873026049",
+                "fast": 0,
+                "slow": 40
+            },
+            {
+                "alias": "discord/#669314567880310792",
+                "fast": 0,
+                "slow": 40
+            },
+            {
+                "alias": "discord/#341915555395010561",
+                "fast": 26,
+                "slow": 12
+            },
+            {
+                "alias": "discord/#216043018686431233",
+                "fast": 0,
+                "slow": 38
+            },
+            {
+                "alias": "discord/#271136314521419781",
+                "fast": 13,
+                "slow": 25
+            },
+            {
+                "alias": "discord/#563655635846168577",
+                "fast": 0,
+                "slow": 38
+            },
+            {
+                "alias": "discord/#387857289731768320",
+                "fast": 0,
+                "slow": 36
+            },
+            {
+                "alias": "discord/#533883785687728150",
+                "fast": 0,
+                "slow": 35
+            },
+            {
+                "alias": "discord/#678351352770068560",
+                "fast": 0,
+                "slow": 35
+            },
+            {
+                "alias": "discord/#298673420181438465",
+                "fast": 0,
+                "slow": 34
+            },
+            {
+                "alias": "discord/#352907625790308353",
+                "fast": 0,
+                "slow": 34
+            },
+            {
+                "alias": "discord/#435197740767510529",
+                "fast": 0,
+                "slow": 34
+            },
+            {
+                "alias": "discord/#683453931313168405",
+                "fast": 0,
+                "slow": 34
+            },
+            {
+                "alias": "discord/#548247352314429461",
+                "fast": 0,
+                "slow": 33
+            },
+            {
+                "alias": "discord/#674963584954007565",
+                "fast": 0,
+                "slow": 33
+            },
+            {
+                "alias": "discord/#675013810318475328",
+                "fast": 0,
+                "slow": 33
+            },
+            {
+                "alias": "discord/#481183194436075522",
+                "fast": 0,
+                "slow": 33
+            },
+            {
+                "alias": "sourcecred/@darrenrm",
+                "fast": 0,
+                "slow": 32
+            },
+            {
+                "alias": "discord/#676828459183505412",
+                "fast": 0,
+                "slow": 32
+            },
+            {
+                "alias": "discord/#572192519291404308",
+                "fast": 0,
+                "slow": 32
+            },
+            {
+                "alias": "discord/#590650512714498059",
+                "fast": 0,
+                "slow": 32
+            },
+            {
+                "alias": "discord/#678245232919445506",
+                "fast": 0,
+                "slow": 32
+            },
+            {
+                "alias": "discord/#432073584391880714",
+                "fast": 0,
+                "slow": 31
+            },
+            {
+                "alias": "discord/#395045071675850752",
+                "fast": 0,
+                "slow": 31
+            },
+            {
+                "alias": "discord/#436943561473130516",
+                "fast": 0,
+                "slow": 30
+            },
+            {
+                "alias": "discord/#507687680365035520",
+                "fast": 0,
+                "slow": 30
+            },
+            {
+                "alias": "discord/#620861799889109002",
+                "fast": 0,
+                "slow": 30
+            },
+            {
+                "alias": "discord/#322708678325043200",
+                "fast": 180,
+                "slow": 0
+            },
+            {
+                "alias": "discord/#610182995084705933",
+                "fast": 2,
+                "slow": 29
+            },
+            {
+                "alias": "discord/#515910615827611649",
+                "fast": 0,
+                "slow": 30
+            },
+            {
+                "alias": "discord/#379773201405706260",
+                "fast": 0,
+                "slow": 30
+            },
+            {
+                "alias": "discord/#272937604339466240",
+                "fast": 0,
+                "slow": 29
+            },
+            {
+                "alias": "discord/#400669055452839936",
+                "fast": 0,
+                "slow": 28
+            },
+            {
+                "alias": "discord/#606185830033391637",
+                "fast": 0,
+                "slow": 28
+            },
+            {
+                "alias": "discord/#399789034198663168",
+                "fast": 0,
+                "slow": 28
+            },
+            {
+                "alias": "discord/#455814216021180426",
+                "fast": 8,
+                "slow": 19
+            },
+            {
+                "alias": "discord/#503046479200649236",
+                "fast": 0,
+                "slow": 27
+            },
+            {
+                "alias": "discord/#269021622378168322",
+                "fast": 0,
+                "slow": 27
+            },
+            {
+                "alias": "discord/#509358235346665472",
+                "fast": 0,
+                "slow": 27
+            },
+            {
+                "alias": "discord/#266320187400126475",
+                "fast": 167,
+                "slow": 0
+            },
+            {
+                "alias": "discord/#659828514924658688",
+                "fast": 167,
+                "slow": 0
+            },
+            {
+                "alias": "discord/#206825896445739009",
+                "fast": 0,
+                "slow": 25
+            },
+            {
+                "alias": "discord/#278391037150494720",
+                "fast": 0,
+                "slow": 25
+            },
+            {
+                "alias": "discord/#369550174449827896",
+                "fast": 0,
+                "slow": 25
+            },
+            {
+                "alias": "discord/#643740970461954050",
+                "fast": 0,
+                "slow": 25
+            },
+            {
+                "alias": "discord/#672860477746970636",
+                "fast": 0,
+                "slow": 25
+            },
+            {
+                "alias": "discord/#673001185652899890",
+                "fast": 0,
+                "slow": 25
+            },
+            {
+                "alias": "discord/#613666022150373428",
+                "fast": 0,
+                "slow": 24
+            },
+            {
+                "alias": "discord/#354947366840827905",
+                "fast": 0,
+                "slow": 24
+            },
+            {
+                "alias": "discord/#362434457224871939",
+                "fast": 0,
+                "slow": 24
+            },
+            {
+                "alias": "discord/#368671950144274436",
+                "fast": 0,
+                "slow": 24
+            },
+            {
+                "alias": "discord/#447442435820224523",
+                "fast": 0,
+                "slow": 24
+            },
+            {
+                "alias": "discord/#479573838435319819",
+                "fast": 0,
+                "slow": 24
+            },
+            {
+                "alias": "discord/#502120545186218007",
+                "fast": 0,
+                "slow": 24
+            },
+            {
+                "alias": "discord/#561444244884291594",
+                "fast": 0,
+                "slow": 24
+            },
+            {
+                "alias": "discord/#605325822043357224",
+                "fast": 0,
+                "slow": 24
+            },
+            {
+                "alias": "discord/#620288913545887765",
+                "fast": 0,
+                "slow": 24
+            },
+            {
+                "alias": "discord/#684156336480845884",
+                "fast": 0,
+                "slow": 24
+            },
+            {
+                "alias": "discord/#684270431502336038",
+                "fast": 0,
+                "slow": 24
+            },
+            {
+                "alias": "discord/#611136329337536513",
+                "fast": 0,
+                "slow": 24
+            },
+            {
+                "alias": "discord/#677877285226807331",
+                "fast": 0,
+                "slow": 24
+            },
+            {
+                "alias": "discord/#351760669340729347",
+                "fast": 80,
+                "slow": 0
+            },
+            {
+                "alias": "discord/#682357266091081772",
+                "fast": 0,
+                "slow": 24
+            },
+            {
+                "alias": "discord/#507347056533438475",
+                "fast": 2,
+                "slow": 22
+            },
+            {
+                "alias": "discord/#553358456506155018",
+                "fast": 0,
+                "slow": 23
+            },
+            {
+                "alias": "discord/#636253953884946448",
+                "fast": 0,
+                "slow": 23
+            },
+            {
+                "alias": "discord/#510208805867618304",
+                "fast": 0,
+                "slow": 23
+            },
+            {
+                "alias": "discord/#370612512980336651",
+                "fast": 4,
+                "slow": 19
+            },
+            {
+                "alias": "discord/#704123381322219580",
+                "fast": 4,
+                "slow": 19
+            },
+            {
+                "alias": "discord/#489154203714060300",
+                "fast": 147,
+                "slow": 0
+            },
+            {
+                "alias": "discord/#105732871343357952",
+                "fast": 0,
+                "slow": 22
+            },
+            {
+                "alias": "discord/#603327180809830403",
+                "fast": 0,
+                "slow": 22
+            },
+            {
+                "alias": "discord/#651047899383201792",
+                "fast": 0,
+                "slow": 22
+            },
+            {
+                "alias": "discord/#382540999639171073",
+                "fast": 0,
+                "slow": 21
+            },
+            {
+                "alias": "discord/#675800100370382878",
+                "fast": 0,
+                "slow": 21
+            },
+            {
+                "alias": "discord/#697413390037024878",
+                "fast": 0,
+                "slow": 21
+            },
+            {
+                "alias": "discord/#501881403345076235",
+                "fast": 0,
+                "slow": 21
+            },
+            {
+                "alias": "discord/#194817764236460034",
+                "fast": 0,
+                "slow": 21
+            },
+            {
+                "alias": "discord/#663723818531029012",
+                "fast": 0,
+                "slow": 20
+            },
+            {
+                "alias": "discord/#347963234940092416",
+                "fast": 0,
+                "slow": 20
+            },
+            {
+                "alias": "discord/#512723066506313731",
+                "fast": 0,
+                "slow": 20
+            },
+            {
+                "alias": "discord/#400646509005373440",
+                "fast": 0,
+                "slow": 20
+            },
+            {
+                "alias": "discord/#467536705193508866",
+                "fast": 0,
+                "slow": 19
+            },
+            {
+                "alias": "discord/#466832718764834816",
+                "fast": 0,
+                "slow": 19
+            },
+            {
+                "alias": "discord/#578321613821444106",
+                "fast": 0,
+                "slow": 19
+            },
+            {
+                "alias": "discord/#667974296328601620",
+                "fast": 0,
+                "slow": 19
+            },
+            {
+                "alias": "discord/#538224684303384578",
+                "fast": 0,
+                "slow": 19
+            },
+            {
+                "alias": "discord/#136899499506401280",
+                "fast": 0,
+                "slow": 19
+            },
+            {
+                "alias": "discord/#622930391183130654",
+                "fast": 0,
+                "slow": 19
+            },
+            {
+                "alias": "discord/#263093996044156938",
+                "fast": 0,
+                "slow": 19
+            },
+            {
+                "alias": "discord/#675022213048696842",
+                "fast": 0,
+                "slow": 19
+            },
+            {
+                "alias": "discord/#343441990412795917",
+                "fast": 0,
+                "slow": 18
+            },
+            {
+                "alias": "discord/#387278079833276418",
+                "fast": 0,
+                "slow": 18
+            },
+            {
+                "alias": "discord/#496238422176956417",
+                "fast": 0,
+                "slow": 18
+            },
+            {
+                "alias": "discord/#524868140820070403",
+                "fast": 0,
+                "slow": 18
+            },
+            {
+                "alias": "discord/#464169801036726292",
+                "fast": 3,
+                "slow": 14
+            },
+            {
+                "alias": "discord/#695101996528566353",
+                "fast": 13,
+                "slow": 3
+            },
+            {
+                "alias": "discord/#199111383504125952",
+                "fast": 0,
+                "slow": 17
+            },
+            {
+                "alias": "discord/#384037083016069120",
+                "fast": 0,
+                "slow": 17
+            },
+            {
+                "alias": "discord/#685229738389930029",
+                "fast": 0,
+                "slow": 17
+            },
+            {
+                "alias": "discord/#114555046770769927",
+                "fast": 5,
+                "slow": 11
+            },
+            {
+                "alias": "discord/#390820589079756801",
+                "fast": 0,
+                "slow": 16
+            },
+            {
+                "alias": "discord/#585012668281257985",
+                "fast": 0,
+                "slow": 16
+            },
+            {
+                "alias": "discord/#318278375888388096",
+                "fast": 102,
+                "slow": 0
+            },
+            {
+                "alias": "discord/#393146854243827713",
+                "fast": 1,
+                "slow": 14
+            },
+            {
+                "alias": "discord/#688477556864712724",
+                "fast": 1,
+                "slow": 14
+            },
+            {
+                "alias": "discord/#364406751161876480",
+                "fast": 0,
+                "slow": 16
+            },
+            {
+                "alias": "discord/#621761018074497024",
+                "fast": 0,
+                "slow": 16
+            },
+            {
+                "alias": "discord/#676013258578329630",
+                "fast": 0,
+                "slow": 16
+            },
+            {
+                "alias": "discourse/@dragosrotaru",
+                "fast": 0,
+                "slow": 15
+            },
+            {
+                "alias": "discord/#578466454555459585",
+                "fast": 6,
+                "slow": 8
+            },
+            {
+                "alias": "discord/#708441176310808616",
+                "fast": 6,
+                "slow": 8
+            },
+            {
+                "alias": "discord/#666784350452318221",
+                "fast": 0,
+                "slow": 15
+            },
+            {
+                "alias": "discord/#474546663751417857",
+                "fast": 96,
+                "slow": 0
+            },
+            {
+                "alias": "discord/#407986090516021248",
+                "fast": 0,
+                "slow": 14
+            },
+            {
+                "alias": "discord/#683250172259729447",
+                "fast": 0,
+                "slow": 14
+            },
+            {
+                "alias": "discord/#399452248310022145",
+                "fast": 0,
+                "slow": 13
+            },
+            {
+                "alias": "discord/#618615769713868812",
+                "fast": 1,
+                "slow": 12
+            },
+            {
+                "alias": "discord/#686755249138302977",
+                "fast": 16,
+                "slow": 0
+            },
+            {
+                "alias": "discord/#432038752936919050",
+                "fast": 0,
+                "slow": 13
+            },
+            {
+                "alias": "discord/#706405090529116240",
+                "fast": 6,
+                "slow": 7
+            },
+            {
+                "alias": "discord/#545251878842269697",
+                "fast": 2,
+                "slow": 11
+            },
+            {
+                "alias": "discord/#605110729334587396",
+                "fast": 0,
+                "slow": 13
+            },
+            {
+                "alias": "discord/#665750958441234444",
+                "fast": 0,
+                "slow": 13
+            },
+            {
+                "alias": "discord/#677213195429216287",
+                "fast": 0,
+                "slow": 13
+            },
+            {
+                "alias": "discord/#620872701745299457",
+                "fast": 0,
+                "slow": 13
+            },
+            {
+                "alias": "discord/#681141240510545999",
+                "fast": 0,
+                "slow": 13
+            },
+            {
+                "alias": "discord/#294284515063365633",
+                "fast": 84,
+                "slow": 0
+            },
+            {
+                "alias": "discord/#397046877431791616",
+                "fast": 84,
+                "slow": 0
+            },
+            {
+                "alias": "discord/#400399114648682516",
+                "fast": 84,
+                "slow": 0
+            },
+            {
+                "alias": "discord/#649934583290396672",
+                "fast": 84,
+                "slow": 0
+            },
+            {
+                "alias": "discord/#718523550671044688",
+                "fast": 84,
+                "slow": 0
+            },
+            {
+                "alias": "discourse/@christofon",
+                "fast": 0,
+                "slow": 11
+            },
+            {
+                "alias": "discord/#258735593851322369",
+                "fast": 1,
+                "slow": 10
+            },
+            {
+                "alias": "discord/#420651712488144898",
+                "fast": 1,
+                "slow": 10
+            },
+            {
+                "alias": "discord/#530350442945708052",
+                "fast": 1,
+                "slow": 10
+            },
+            {
+                "alias": "discord/#141167392767082496",
+                "fast": 1,
+                "slow": 10
+            },
+            {
+                "alias": "discord/#684147929631424574",
+                "fast": 1,
+                "slow": 10
+            },
+            {
+                "alias": "discord/#410176691105824798",
+                "fast": 1,
+                "slow": 10
+            },
+            {
+                "alias": "discord/#557416218131431424",
+                "fast": 33,
+                "slow": 0
+            },
+            {
+                "alias": "discord/#560880733590126602",
+                "fast": 33,
+                "slow": 0
+            },
+            {
+                "alias": "discord/#715456243883442286",
+                "fast": 33,
+                "slow": 0
+            },
+            {
+                "alias": "discord/#551047842681323533",
+                "fast": 0,
+                "slow": 11
+            },
+            {
+                "alias": "discord/#394919909454512138",
+                "fast": 0,
+                "slow": 11
+            },
+            {
+                "alias": "discord/#538205927808040982",
+                "fast": 0,
+                "slow": 11
+            },
+            {
+                "alias": "discord/#399659534752153606",
+                "fast": 23,
+                "slow": 0
+            },
+            {
+                "alias": "discord/#714946046173642812",
+                "fast": 23,
+                "slow": 0
+            },
+            {
+                "alias": "discord/#715392994622308363",
+                "fast": 23,
+                "slow": 0
+            },
+            {
+                "alias": "discord/#716297440587808849",
+                "fast": 23,
+                "slow": 0
+            },
+            {
+                "alias": "discord/#716339627090378833",
+                "fast": 23,
+                "slow": 0
+            },
+            {
+                "alias": "discord/#623547957308031007",
+                "fast": 4,
+                "slow": 6
+            },
+            {
+                "alias": "discord/#354096767790350337",
+                "fast": 2,
+                "slow": 8
+            },
+            {
+                "alias": "discord/#704960591944613898",
+                "fast": 2,
+                "slow": 8
+            },
+            {
+                "alias": "discord/#388055378123816960",
+                "fast": 0,
+                "slow": 9
+            },
+            {
+                "alias": "discord/#605464081121673247",
+                "fast": 0,
+                "slow": 9
+            },
+            {
+                "alias": "discord/#682211797193064510",
+                "fast": 0,
+                "slow": 9
+            },
+            {
+                "alias": "discord/#697449954482061322",
+                "fast": 11,
+                "slow": 0
+            },
+            {
+                "alias": "discord/#365193302770843658",
+                "fast": 24,
+                "slow": 0
+            },
+            {
+                "alias": "discord/#379479553757806592",
+                "fast": 24,
+                "slow": 0
+            },
+            {
+                "alias": "discord/#658807628377489460",
+                "fast": 24,
+                "slow": 0
+            },
+            {
+                "alias": "discord/#707340770645901474",
+                "fast": 24,
+                "slow": 0
+            },
+            {
+                "alias": "discord/#710501484277661736",
+                "fast": 24,
+                "slow": 0
+            },
+            {
+                "alias": "discord/#298965291193597953",
+                "fast": 0,
+                "slow": 9
+            },
+            {
+                "alias": "discord/#264958517465579520",
+                "fast": 0,
+                "slow": 9
+            },
+            {
+                "alias": "discord/#647882787562717199",
+                "fast": 0,
+                "slow": 9
+            },
+            {
+                "alias": "discord/#567338537146646548",
+                "fast": 0,
+                "slow": 8
+            },
+            {
+                "alias": "discord/#616699144408662028",
+                "fast": 0,
+                "slow": 8
+            },
+            {
+                "alias": "discord/#673761758816763924",
+                "fast": 0,
+                "slow": 8
+            },
+            {
+                "alias": "discord/#688947745280884809",
+                "fast": 0,
+                "slow": 8
+            },
+            {
+                "alias": "discord/#566856950491643916",
+                "fast": 2,
+                "slow": 6
+            },
+            {
+                "alias": "discord/#569436053602041856",
+                "fast": 2,
+                "slow": 6
+            },
+            {
+                "alias": "discord/#604498576810311680",
+                "fast": 2,
+                "slow": 6
+            },
+            {
+                "alias": "discord/#652079601375248394",
+                "fast": 2,
+                "slow": 6
+            },
+            {
+                "alias": "discord/#664252450995306497",
+                "fast": 2,
+                "slow": 6
+            },
+            {
+                "alias": "discord/#109059804164534272",
+                "fast": 0,
+                "slow": 7
+            },
+            {
+                "alias": "discord/#161241965181140994",
+                "fast": 0,
+                "slow": 7
+            },
+            {
+                "alias": "discord/#347061732705042435",
+                "fast": 0,
+                "slow": 7
+            },
+            {
+                "alias": "discord/#411952680244740096",
+                "fast": 0,
+                "slow": 7
+            },
+            {
+                "alias": "discord/#433380600930369538",
+                "fast": 0,
+                "slow": 7
+            },
+            {
+                "alias": "discord/#620633439863046150",
+                "fast": 0,
+                "slow": 7
+            },
+            {
+                "alias": "discord/#513394497850179629",
+                "fast": 0,
+                "slow": 7
+            },
+            {
+                "alias": "discord/#323881776957358081",
+                "fast": 0,
+                "slow": 7
+            },
+            {
+                "alias": "discord/#518877932874104847",
+                "fast": 0,
+                "slow": 7
+            },
+            {
+                "alias": "discord/#670690184538357770",
+                "fast": 0,
+                "slow": 7
+            },
+            {
+                "alias": "discord/#691732892035973201",
+                "fast": 0,
+                "slow": 7
+            },
+            {
+                "alias": "discord/#691911092506591253",
+                "fast": 0,
+                "slow": 7
+            },
+            {
+                "alias": "discord/#462281685048754177",
+                "fast": 50,
+                "slow": 0
+            },
+            {
+                "alias": "discord/#717804304144007341",
+                "fast": 50,
+                "slow": 0
+            },
+            {
+                "alias": "discord/#289716453626609664",
+                "fast": 9,
+                "slow": 0
+            },
+            {
+                "alias": "discord/#405953232821813258",
+                "fast": 9,
+                "slow": 0
+            },
+            {
+                "alias": "discord/#473280541278470145",
+                "fast": 9,
+                "slow": 0
+            },
+            {
+                "alias": "discord/#698202474862870628",
+                "fast": 9,
+                "slow": 0
+            },
+            {
+                "alias": "discord/#712396817140285540",
+                "fast": 9,
+                "slow": 0
+            },
+            {
+                "alias": "discord/#191775350169141248",
+                "fast": 1,
+                "slow": 5
+            },
+            {
+                "alias": "discord/#210099974107561985",
+                "fast": 1,
+                "slow": 5
+            },
+            {
+                "alias": "discord/#689028761068503129",
+                "fast": 1,
+                "slow": 5
+            },
+            {
+                "alias": "discord/#694659718974799992",
+                "fast": 1,
+                "slow": 5
+            },
+            {
+                "alias": "discord/#699261928295366756",
+                "fast": 1,
+                "slow": 5
+            },
+            {
+                "alias": "discord/#383292816090202115",
+                "fast": 0,
+                "slow": 6
+            },
+            {
+                "alias": "discord/#387054709443133440",
+                "fast": 0,
+                "slow": 6
+            },
+            {
+                "alias": "discord/#425372720889462795",
+                "fast": 0,
+                "slow": 6
+            },
+            {
+                "alias": "discord/#460850655632949248",
+                "fast": 0,
+                "slow": 6
+            },
+            {
+                "alias": "discord/#514524967656751120",
+                "fast": 0,
+                "slow": 6
+            },
+            {
+                "alias": "discord/#526883825129750528",
+                "fast": 0,
+                "slow": 6
+            },
+            {
+                "alias": "discord/#670745430685908999",
+                "fast": 0,
+                "slow": 6
+            },
+            {
+                "alias": "discord/#240288507162001409",
+                "fast": 8,
+                "slow": 0
+            },
+            {
+                "alias": "discord/#305404135828881409",
+                "fast": 8,
+                "slow": 0
+            },
+            {
+                "alias": "discord/#308317063879852033",
+                "fast": 8,
+                "slow": 0
+            },
+            {
+                "alias": "discord/#616338272334905346",
+                "fast": 8,
+                "slow": 0
+            },
+            {
+                "alias": "discord/#710409392536813659",
+                "fast": 8,
+                "slow": 0
+            },
+            {
+                "alias": "discord/#711506611406897154",
+                "fast": 8,
+                "slow": 0
+            },
+            {
+                "alias": "discord/#255298750778441728",
+                "fast": 4,
+                "slow": 1
+            },
+            {
+                "alias": "discord/#286103989945368577",
+                "fast": 4,
+                "slow": 1
+            },
+            {
+                "alias": "discord/#709313111605379074",
+                "fast": 4,
+                "slow": 1
+            },
+            {
+                "alias": "discord/#709872164555194408",
+                "fast": 4,
+                "slow": 1
+            },
+            {
+                "alias": "discord/#616754792965865495",
+                "fast": 2,
+                "slow": 3
+            },
+            {
+                "alias": "discord/#400992437591605258",
+                "fast": 2,
+                "slow": 3
+            },
+            {
+                "alias": "discord/#484974717640638464",
+                "fast": 2,
+                "slow": 3
+            },
+            {
+                "alias": "discord/#536986002208849922",
+                "fast": 2,
+                "slow": 3
+            },
+            {
+                "alias": "discord/#633712303556132865",
+                "fast": 2,
+                "slow": 3
+            },
+            {
+                "alias": "discord/#705792589831602186",
+                "fast": 2,
+                "slow": 3
+            },
+            {
+                "alias": "discord/#706781767012712458",
+                "fast": 2,
+                "slow": 3
+            },
+            {
+                "alias": "discord/#706949836158533703",
+                "fast": 2,
+                "slow": 3
+            },
+            {
+                "alias": "discord/#707180605107994709",
+                "fast": 2,
+                "slow": 3
+            },
+            {
+                "alias": "discord/#707193725344022560",
+                "fast": 2,
+                "slow": 3
+            },
+            {
+                "alias": "discord/#686955086941126683",
+                "fast": 3,
+                "slow": 1
+            },
+            {
+                "alias": "discord/#337325898707632139",
+                "fast": 38,
+                "slow": 0
+            },
+            {
+                "alias": "discord/#362027171364995074",
+                "fast": 38,
+                "slow": 0
+            },
+            {
+                "alias": "discord/#690150061753368599",
+                "fast": 38,
+                "slow": 0
+            },
+            {
+                "alias": "discord/#710928581928419459",
+                "fast": 38,
+                "slow": 0
+            },
+            {
+                "alias": "discord/#717376321734574123",
+                "fast": 38,
+                "slow": 0
+            },
+            {
+                "alias": "discord/#717431823038414908",
+                "fast": 38,
+                "slow": 0
+            },
+            {
+                "alias": "discord/#717589777922261024",
+                "fast": 38,
+                "slow": 0
+            },
+            {
+                "alias": "discord/#332367605237022721",
+                "fast": 0,
+                "slow": 4
+            },
+            {
+                "alias": "discord/#392428843765334016",
+                "fast": 0,
+                "slow": 4
+            },
+            {
+                "alias": "discord/#563068708390437023",
+                "fast": 0,
+                "slow": 4
+            },
+            {
+                "alias": "discord/#577523603927728149",
+                "fast": 0,
+                "slow": 4
+            },
+            {
+                "alias": "discord/#643668900193763338",
+                "fast": 0,
+                "slow": 4
+            },
+            {
+                "alias": "discord/#696612384231653448",
+                "fast": 0,
+                "slow": 4
+            },
+            {
+                "alias": "discord/#199630270285086720",
+                "fast": 0,
+                "slow": 4
+            },
+            {
+                "alias": "discord/#313495242538221574",
+                "fast": 0,
+                "slow": 4
+            },
+            {
+                "alias": "discord/#640940613189238805",
+                "fast": 0,
+                "slow": 3
+            },
+            {
+                "alias": "discord/#148284905179185152",
+                "fast": 3,
+                "slow": 0
+            },
+            {
+                "alias": "discord/#374266835409043461",
+                "fast": 3,
+                "slow": 0
+            },
+            {
+                "alias": "discord/#418241482672308225",
+                "fast": 3,
+                "slow": 0
+            },
+            {
+                "alias": "discord/#162198115024240640",
+                "fast": 7,
+                "slow": 0
+            },
+            {
+                "alias": "discord/#443722767750266881",
+                "fast": 0,
+                "slow": 1
+            },
+            {
+                "alias": "discord/#505113317845762052",
+                "fast": 9,
+                "slow": 0
+            },
+            {
+                "alias": "discourse/@mikeki",
+                "fast": 0,
+                "slow": 0
+            },
+            {
+                "alias": "discourse/@system",
+                "fast": 0,
+                "slow": 0
+            },
+            {
+                "alias": "sourcecred/@moarshy",
+                "fast": 0,
+                "slow": 0
+            }
+        ]
+    }
+]
