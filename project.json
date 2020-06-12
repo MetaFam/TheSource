@@ -1,10 +1,13 @@
 [
   {
     "type": "sourcecred/project",
-    "version": "0.5.0"
+    "version": "0.5.2"
   },
   {
     "id": "@metagame",
+    "timelineCredParams": {
+      "alpha": 0.3
+    },
     "discord": {
       "guildId": "629411177947987986",
       "reactionWeights": {
@@ -13,7 +16,7 @@
         "❤️": 1,
         "💯": 1,
         "🌱": 1,
-        "🐙": 1,
+        "🐙": 2,
         "🙏": 1
       }
     },

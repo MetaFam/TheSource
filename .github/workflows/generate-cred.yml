@@ -2,8 +2,8 @@ name: generate-cred
 
 on:
   # Trigger on merging to master.
-  push: 
-    branches: 
+  push:
+    branches:
       - master
   # As well as every 6 hours.
   schedule:
@@ -26,14 +26,14 @@ jobs:
             SC_CACHE-${{ hashFiles('**/project.json') }}-
             SC_CACHE-
       - name: Run SourceCred
-        uses: vsoch/cred-action@wip-discord-cache
+        uses: hammadj/cred-action@master
         env:
           token: ${{ secrets.GITHUB_TOKEN }}
           SOURCECRED_DISCORD_TOKEN: ${{ secrets.SOURCECRED_DISCORD_TOKEN }}
           SOURCECRED_INITIATIVES_DIRECTORY: ./initiatives
         with:
-          weights: weights.json
           project: "@metagame"
           project-file: project.json
+          weights: weights.json
           branch-against: master
           automated: true
