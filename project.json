@@ -29,7 +29,7 @@
     "identities": [
       { "username": "Beanow", "aliases": ["github/Beanow", "discord/143776454050709505"]},
       { "username": "geleeroyale", "aliases": ["github/geleeroyale", "discord/426314998822731787", "discourse/geleeroyale"]},
-      { "username": "hammadj", "aliases": ["github/hammadj", "discord/118260545211072517", "discourse/METADREAMER"]},
+      { "username": "hammadj", "aliases": ["github/hammadj", "discord/118260545211072517", "discourse/metadreamer"]},
       { "username": "YalorMewn", "aliases": ["github/YalorMewn", "discord/360481131029856256", "discourse/Yalortackson"]},
       { "username": "burrrata", "aliases": ["github/burrrata", "discord/657069807505637397", "discourse/burrrata"]},
       { "username": "Gus", "aliases": ["discourse/Gus", "discord/624571193298780195"]},
@@ -57,7 +57,7 @@
       { "username": "Polycarp", "aliases": ["discourse/Polycarp", "discord/368363326524227584"]},
       { "username": "davidhq", "aliases": ["discourse/david", "discord/97663671152410624"]},
       { "username": "penguin", "aliases": ["github/c0mput3rxz", "discord/208321561982271489", "discourse/c0mput3rxz"]},
-      { "username": "meemurbit", "aliases": ["github/kerstentw", "discord/680008059678228480"]},
+      { "username": "meemurbit", "aliases": ["github/kerstentw", "discord/680008059678228480", "discourse/meemurbit"]},
       { "username": "aaron", "aliases": ["github/pythonpete32", "discord/571023281382227978"]},
       { "username": "DeFiDude", "aliases": ["github/DeFiDude", "discord/640018738778865695"]},
       { "username": "BurningFiat", "aliases": ["github/drewharding", "discord/476721554311610369"]}
