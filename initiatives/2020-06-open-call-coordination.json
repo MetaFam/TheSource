@@ -1,0 +1,23 @@
+[
+  {
+    "type": "sourcecred/initiativeFile",
+    "version": "0.2.0"
+  },
+  {
+    "title": "Coordinating Open Community Q&A and Calls",
+    "timestampIso": "2020-06-15T10:00:00.000Z",
+    "weight": {
+      "incomplete": 8,
+      "complete": 8
+    },
+    "completed": true,
+    "champions": [
+      "@Polycarp"
+    ],
+    "dependencies": {},
+    "references": {},
+    "contributions": {
+      "entries": []
+    }
+  }
+]

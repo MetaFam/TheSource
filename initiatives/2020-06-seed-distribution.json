@@ -1,0 +1,31 @@
+[
+  {
+    "type": "sourcecred/initiativeFile",
+    "version": "0.2.0"
+  },
+  {
+    "title": "Initial Seed Distribution",
+    "timestampIso": "2020-06-15T10:00:00.000Z",
+    "weight": {
+      "incomplete": 13,
+      "complete": 13
+    },
+    "completed": false,
+    "champions": [
+      "https://forum.metagame.wtf/u/METADREAMER"
+    ],
+    "dependencies": {},
+    "references": {},
+    "contributions": {
+      "entries": [{
+        "weight": 5,
+        "title": "Bug Fixes for Github Identities",
+        "timestampIso": "2020-06-20T07:00:00.000Z",
+        "contributors": [
+          "@decentralion",
+          "@hammadj"
+        ]
+      }]
+    }
+  }
+]
