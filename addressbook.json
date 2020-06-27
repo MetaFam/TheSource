@@ -52,5 +52,11 @@
     "createdAt": 1593293251181,
     "address": "0x2920620b47d51170319a531a2d6d5810610e8c2a",
     "discordId": "97663671152410624"
+  },
+  {
+    "name": "ECWireless",
+    "createdAt": 1593301381891,
+    "address": "0x1a9cEe6E1D21c3C09FB83A980EA54299f01920cd",
+    "discordId": "574636026014990336"
   }
 ]
