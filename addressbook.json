@@ -100,5 +100,11 @@
     "createdAt": 1593530704950,
     "address": "0x4B7C0Da1C299Ce824f55A0190Efb13663442FA2c",
     "discordId": "427964041764274177"
+  },
+  {
+    "name": "peth.eth (CET)",
+    "createdAt": 1593553036670,
+    "address": "0xB53b0255895c4F9E3a185E484e5B674bCCfbc076",
+    "discordId": "370936911268806667"
   }
 ]
