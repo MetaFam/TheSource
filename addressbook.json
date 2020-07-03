@@ -124,5 +124,11 @@
     "createdAt": 1593799764710,
     "address": "0x851fB899dA7F80c211d9B8e5f231FB3BC9eca41a",
     "discordId": "579830927287386126"
+  },
+  {
+    "name": "BurningFiat",
+    "createdAt": 1593808859984,
+    "address": "0xf8049C8425f9eAb4E2AE9E1D950f9D3F71481882",
+    "discordId": "476721554311610369"
   }
 ]
