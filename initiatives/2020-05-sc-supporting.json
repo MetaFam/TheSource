@@ -1,0 +1,21 @@
+[
+  {
+    "type": "sourcecred/initiativeFile",
+    "version": "0.1.0"
+  },
+  {
+    "title": "Creating SourceCred and Supporting MetaGame",
+    "timestampIso": "2020-05-15T10:00:00.000Z",
+    "weight": {
+      "incomplete": 13,
+      "complete": 13
+    },
+    "completed": true,
+    "champions": [
+      "https://forum.metagame.wtf/u/decentralion"
+    ],
+    "dependencies": [],
+    "references": [],
+    "contributions": []
+  }
+]
