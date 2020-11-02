@@ -376,5 +376,11 @@
     "createdAt": 1604361398720,
     "address": "0x6543c99d0e073c140Fd08A741c6cfdcd1449da94",
     "discordId": "624571193298780195"
+  },
+  {
+    "name": "DeFi Dude",
+    "createdAt": 1604361486819,
+    "address": "0xf3B1B6e83Be4d55695f1D30ac3D307D9D5CA98ff",
+    "discordId": "640018738778865695"
   }
 ]
