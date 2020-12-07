@@ -520,5 +520,11 @@
     "createdAt": 1607310020739,
     "address": "0xaD7E79A81296aCFdBE8C41804f8348908C23EaBE",
     "discordId": "785326527167463444"
+  },
+  {
+    "name": "stopwatch",
+    "createdAt": 1607360800747,
+    "address": "0x48A63097E1Ac123b1f5A8bbfFafA4afa8192FaB0",
+    "discordId": "283112394618568704"
   }
 ]
