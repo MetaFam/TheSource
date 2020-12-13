@@ -544,5 +544,11 @@
     "createdAt": 1607833761920,
     "address": "0x3a3355805181ba5752cB52CEBE8C95c0F3ED3d61",
     "discordId": "288213391632367616"
+  },
+  {
+    "name": "DanForbes",
+    "createdAt": 1607890396987,
+    "address": "0x0a8395c74b4048f1a40ea8c11b7e946a5ff93561",
+    "discordId": "218367067441594368"
   }
 ]
