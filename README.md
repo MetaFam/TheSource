@@ -1,0 +1,2 @@
+# DEPRECATED, PLEASE SEE https://github.com/MetaFam/XP FOR OUR CURRENT SOURCECRED INSTANCE
+SourceCred instance
