@@ -622,5 +622,11 @@
     "createdAt": 1608392657901,
     "address": "0xe871C29AD43856fcaC45492AF664858999Bc7fDd",
     "discordId": "367484103089455108"
+  },
+  {
+    "name": "TPS",
+    "createdAt": 1608499772783,
+    "address": "0x2a87C1345024ab463ACC26417124C433b3069fdD",
+    "discordId": "250377718540009474"
   }
 ]
