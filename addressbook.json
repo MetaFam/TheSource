@@ -682,5 +682,11 @@
     "createdAt": 1609186146615,
     "address": "0x4052336e4B1a6F05d15a90E8ce8A0A4C4D512243",
     "discordId": "371754999304290304"
+  },
+  {
+    "name": "bebo",
+    "createdAt": 1609345960821,
+    "address": "0x62Ff40ca6899b6DdF0129e8f88319afD0F85f23F",
+    "discordId": "791387226995032095"
   }
 ]
