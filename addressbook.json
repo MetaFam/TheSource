@@ -1156,5 +1156,11 @@
     "createdAt": 1617585337719,
     "address": "0x070Fb8e20E35CD2AEA531dEBb1e4d533A5161Ab5",
     "discordId": "782652975457239060"
+  },
+  {
+    "name": "CosmoBurn",
+    "createdAt": 1617802229530,
+    "address": "0x83be849f0f51D23F17e49838f2811E3178226d6a",
+    "discordId": "238115081320136704"
   }
 ]
