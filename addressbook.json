@@ -1192,5 +1192,11 @@
     "createdAt": 1619460227008,
     "address": "0x26489976F21c323164116C6cbB1Ff537F17b4C5b",
     "discordId": "752817400063459348"
+  },
+  {
+    "name": "ESL",
+    "createdAt": 1619554072576,
+    "address": "0x6432b999375008a597e4165bCA665cfF6a8a23Ca",
+    "discordId": "817079984468000779"
   }
 ]
