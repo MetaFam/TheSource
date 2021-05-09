@@ -1222,5 +1222,11 @@
     "createdAt": 1620589314772,
     "address": "0x7bcD790D1282622dA859625F3786bE9F33042d50",
     "discordId": "392045206364487681"
+  },
+  {
+    "name": "bends",
+    "createdAt": 1620591640357,
+    "address": "0x1E975f53956d644868F3eA25690b1bbEda658565",
+    "discordId": "805467270762856490"
   }
 ]
